@@ -1,0 +1,2158 @@
+Domain,Area,Element,Crop,Year,Unit,Value
+Crops,Burundi,Production,Bananas,2016,tonnes,911193
+Crops,Burundi,Production,Bananas,2017,tonnes,830957
+Crops,Burundi,Production,Bananas,2018,tonnes,1654955
+Crops,Burundi,Production,Bananas,2019,tonnes,1179759
+Crops,Burundi,Production,"Beans, dry",2016,tonnes,375863
+Crops,Burundi,Production,"Beans, dry",2017,tonnes,371211
+Crops,Burundi,Production,"Beans, dry",2018,tonnes,393233
+Crops,Burundi,Production,"Beans, dry",2019,tonnes,619151
+Crops,Burundi,Production,"Cashew nuts, with shell",2017,tonnes,215765
+Crops,Burundi,Production,"Cashew nuts, with shell",2018,tonnes,266389
+Crops,Burundi,Production,"Cashew nuts, with shell",2019,tonnes,283328
+Crops,Burundi,Production,Cassava,2016,tonnes,2394982
+Crops,Burundi,Production,Cassava,2017,tonnes,2285265
+Crops,Burundi,Production,Cassava,2018,tonnes,2386709
+Crops,Burundi,Production,Cassava,2019,tonnes,2408958
+Crops,Burundi,Production,Castor oil seed,2016,tonnes,0
+Crops,Burundi,Production,Castor oil seed,2017,tonnes,0
+Crops,Burundi,Production,Castor oil seed,2018,tonnes,0
+Crops,Burundi,Production,Castor oil seed,2019,tonnes,0
+Crops,Burundi,Production,"Groundnuts, with shell",2016,tonnes,7345
+Crops,Burundi,Production,"Groundnuts, with shell",2017,tonnes,8923
+Crops,Burundi,Production,"Groundnuts, with shell",2018,tonnes,12372
+Crops,Burundi,Production,"Groundnuts, with shell",2019,tonnes,9813
+Crops,Burundi,Production,Maize,2016,tonnes,243740
+Crops,Burundi,Production,Maize,2017,tonnes,228355
+Crops,Burundi,Production,Maize,2018,tonnes,290498
+Crops,Burundi,Production,Maize,2019,tonnes,270813
+Crops,Burundi,Production,Millet,2016,tonnes,10019
+Crops,Burundi,Production,Millet,2017,tonnes,9955
+Crops,Burundi,Production,Millet,2018,tonnes,9891
+Crops,Burundi,Production,Millet,2019,tonnes,9827
+Crops,Burundi,Production,Oil palm fruit,2016,tonnes,88011
+Crops,Burundi,Production,Oil palm fruit,2017,tonnes,88637
+Crops,Burundi,Production,Oil palm fruit,2018,tonnes,88533
+Crops,Burundi,Production,Oil palm fruit,2019,tonnes,88574
+Crops,Burundi,Production,"Peas, dry",2016,tonnes,18764
+Crops,Burundi,Production,"Peas, dry",2017,tonnes,19056
+Crops,Burundi,Production,"Peas, dry",2018,tonnes,10000
+Crops,Burundi,Production,"Peas, dry",2019,tonnes,12734
+Crops,Burundi,Production,Potatoes,2016,tonnes,145687
+Crops,Burundi,Production,Potatoes,2017,tonnes,204891
+Crops,Burundi,Production,Potatoes,2018,tonnes,302665
+Crops,Burundi,Production,Potatoes,2019,tonnes,376441
+Crops,Burundi,Production,"Rice, paddy",2016,tonnes,146633
+Crops,Burundi,Production,"Rice, paddy",2017,tonnes,88298
+Crops,Burundi,Production,"Rice, paddy",2018,tonnes,89296
+Crops,Burundi,Production,"Rice, paddy",2019,tonnes,88510
+Crops,Burundi,Production,Seed cotton,2016,tonnes,2010
+Crops,Burundi,Production,Seed cotton,2017,tonnes,1835
+Crops,Burundi,Production,Seed cotton,2018,tonnes,2066
+Crops,Burundi,Production,Seed cotton,2019,tonnes,1749
+Crops,Burundi,Production,Sorghum,2016,tonnes,29665
+Crops,Burundi,Production,Sorghum,2017,tonnes,25499
+Crops,Burundi,Production,Sorghum,2018,tonnes,28472
+Crops,Burundi,Production,Sorghum,2019,tonnes,8851
+Crops,Burundi,Production,Soybeans,2016,tonnes,2395
+Crops,Burundi,Production,Soybeans,2017,tonnes,2167
+Crops,Burundi,Production,Soybeans,2018,tonnes,2387
+Crops,Burundi,Production,Soybeans,2019,tonnes,2589
+Crops,Burundi,Production,Sugar cane,2016,tonnes,218115
+Crops,Burundi,Production,Sugar cane,2017,tonnes,215118
+Crops,Burundi,Production,Sugar cane,2018,tonnes,178439
+Crops,Burundi,Production,Sugar cane,2019,tonnes,167242
+Crops,Burundi,Production,Sweet potatoes,2016,tonnes,726048
+Crops,Burundi,Production,Sweet potatoes,2017,tonnes,519637
+Crops,Burundi,Production,Sweet potatoes,2018,tonnes,583019
+Crops,Burundi,Production,Sweet potatoes,2019,tonnes,1023458
+Crops,Burundi,Production,Tea,2016,tonnes,52701
+Crops,Burundi,Production,Tea,2017,tonnes,10657
+Crops,Burundi,Production,Tea,2018,tonnes,11367
+Crops,Burundi,Production,Tea,2019,tonnes,11383
+Crops,Burundi,Production,"Vegetables, fresh nes",2016,tonnes,516566
+Crops,Burundi,Production,"Vegetables, fresh nes",2017,tonnes,533558
+Crops,Burundi,Production,"Vegetables, fresh nes",2018,tonnes,550550
+Crops,Burundi,Production,"Vegetables, fresh nes",2019,tonnes,567541
+Crops,Burundi,Production,Wheat,2016,tonnes,7980
+Crops,Burundi,Production,Wheat,2017,tonnes,8060
+Crops,Burundi,Production,Wheat,2018,tonnes,22751
+Crops,Burundi,Production,Wheat,2019,tonnes,4894
+Crops,Burundi,Production,Yams,2016,tonnes,11107
+Crops,Burundi,Production,Yams,2017,tonnes,5897
+Crops,Burundi,Production,Yams,2018,tonnes,6772
+Crops,Burundi,Production,Yams,2019,tonnes,6859
+Crops,Comoros,Production,Bananas,2016,tonnes,34995
+Crops,Comoros,Production,Bananas,2017,tonnes,28769
+Crops,Comoros,Production,Bananas,2018,tonnes,25662
+Crops,Comoros,Production,Bananas,2019,tonnes,22785
+Crops,Comoros,Production,Cassava,2016,tonnes,64083
+Crops,Comoros,Production,Cassava,2017,tonnes,64413
+Crops,Comoros,Production,Cassava,2018,tonnes,64742
+Crops,Comoros,Production,Cassava,2019,tonnes,65071
+Crops,Comoros,Production,"Cocoa, beans",2016,tonnes,46
+Crops,Comoros,Production,"Cocoa, beans",2017,tonnes,47
+Crops,Comoros,Production,"Cocoa, beans",2018,tonnes,49
+Crops,Comoros,Production,"Cocoa, beans",2019,tonnes,51
+Crops,Comoros,Production,"Groundnuts, with shell",2016,tonnes,962
+Crops,Comoros,Production,"Groundnuts, with shell",2017,tonnes,970
+Crops,Comoros,Production,"Groundnuts, with shell",2018,tonnes,978
+Crops,Comoros,Production,"Groundnuts, with shell",2019,tonnes,986
+Crops,Comoros,Production,Maize,2016,tonnes,6519
+Crops,Comoros,Production,Maize,2017,tonnes,6739
+Crops,Comoros,Production,Maize,2018,tonnes,6959
+Crops,Comoros,Production,Maize,2019,tonnes,7179
+Crops,Comoros,Production,Potatoes,2016,tonnes,669
+Crops,Comoros,Production,Potatoes,2017,tonnes,663
+Crops,Comoros,Production,Potatoes,2018,tonnes,663
+Crops,Comoros,Production,Potatoes,2019,tonnes,666
+Crops,Comoros,Production,"Rice, paddy",2016,tonnes,31700
+Crops,Comoros,Production,"Rice, paddy",2017,tonnes,32970
+Crops,Comoros,Production,"Rice, paddy",2018,tonnes,34240
+Crops,Comoros,Production,"Rice, paddy",2019,tonnes,35510
+Crops,Comoros,Production,Sisal,2016,tonnes,
+Crops,Comoros,Production,Sisal,2017,tonnes,
+Crops,Comoros,Production,Sisal,2018,tonnes,
+Crops,Comoros,Production,Sisal,2019,tonnes,
+Crops,Comoros,Production,Sweet potatoes,2016,tonnes,7543
+Crops,Comoros,Production,Sweet potatoes,2017,tonnes,7695
+Crops,Comoros,Production,Sweet potatoes,2018,tonnes,7848
+Crops,Comoros,Production,Sweet potatoes,2019,tonnes,8001
+Crops,Comoros,Production,Tomatoes,2016,tonnes,665
+Crops,Comoros,Production,Tomatoes,2017,tonnes,670
+Crops,Comoros,Production,Tomatoes,2018,tonnes,675
+Crops,Comoros,Production,Tomatoes,2019,tonnes,680
+Crops,Comoros,Production,"Vegetables, fresh nes",2016,tonnes,4589
+Crops,Comoros,Production,"Vegetables, fresh nes",2017,tonnes,4656
+Crops,Comoros,Production,"Vegetables, fresh nes",2018,tonnes,4724
+Crops,Comoros,Production,"Vegetables, fresh nes",2019,tonnes,4791
+Crops,Comoros,Production,Yams,2016,tonnes,4595
+Crops,Comoros,Production,Yams,2017,tonnes,4631
+Crops,Comoros,Production,Yams,2018,tonnes,4667
+Crops,Comoros,Production,Yams,2019,tonnes,4703
+Crops,Djibouti,Production,"Beans, dry",2016,tonnes,2178
+Crops,Djibouti,Production,"Beans, dry",2017,tonnes,2189
+Crops,Djibouti,Production,"Beans, dry",2018,tonnes,2200
+Crops,Djibouti,Production,"Beans, dry",2019,tonnes,2211
+Crops,Djibouti,Production,Cabbages and other brassicas,2016,tonnes,8
+Crops,Djibouti,Production,Cabbages and other brassicas,2017,tonnes,8
+Crops,Djibouti,Production,Cabbages and other brassicas,2018,tonnes,8
+Crops,Djibouti,Production,Cabbages and other brassicas,2019,tonnes,8
+Crops,Djibouti,Production,Carrots and turnips,2016,tonnes,13
+Crops,Djibouti,Production,Carrots and turnips,2017,tonnes,13
+Crops,Djibouti,Production,Carrots and turnips,2018,tonnes,14
+Crops,Djibouti,Production,Carrots and turnips,2019,tonnes,14
+Crops,Djibouti,Production,"Chillies and peppers, dry",2016,tonnes,596
+Crops,Djibouti,Production,"Chillies and peppers, dry",2017,tonnes,622
+Crops,Djibouti,Production,"Chillies and peppers, dry",2018,tonnes,649
+Crops,Djibouti,Production,"Chillies and peppers, dry",2019,tonnes,675
+Crops,Djibouti,Production,"Chillies and peppers, green",2016,tonnes,11
+Crops,Djibouti,Production,"Chillies and peppers, green",2017,tonnes,12
+Crops,Djibouti,Production,"Chillies and peppers, green",2018,tonnes,12
+Crops,Djibouti,Production,"Chillies and peppers, green",2019,tonnes,12
+Crops,Djibouti,Production,"Fruit, tropical fresh nes",2016,tonnes,1107
+Crops,Djibouti,Production,"Fruit, tropical fresh nes",2017,tonnes,1121
+Crops,Djibouti,Production,"Fruit, tropical fresh nes",2018,tonnes,1134
+Crops,Djibouti,Production,"Fruit, tropical fresh nes",2019,tonnes,1148
+Crops,Djibouti,Production,Lemons and limes,2016,tonnes,2556
+Crops,Djibouti,Production,Lemons and limes,2017,tonnes,2606
+Crops,Djibouti,Production,Lemons and limes,2018,tonnes,2655
+Crops,Djibouti,Production,Lemons and limes,2019,tonnes,2705
+Crops,Djibouti,Production,Maize,2016,tonnes,19
+Crops,Djibouti,Production,Maize,2017,tonnes,20
+Crops,Djibouti,Production,Maize,2018,tonnes,21
+Crops,Djibouti,Production,Maize,2019,tonnes,21
+Crops,Djibouti,Production,"Mangoes, mangosteens, guavas",2016,tonnes,602
+Crops,Djibouti,Production,"Mangoes, mangosteens, guavas",2017,tonnes,611
+Crops,Djibouti,Production,"Mangoes, mangosteens, guavas",2018,tonnes,619
+Crops,Djibouti,Production,"Mangoes, mangosteens, guavas",2019,tonnes,628
+Crops,Djibouti,Production,Oranges,2016,tonnes,5
+Crops,Djibouti,Production,Oranges,2017,tonnes,5
+Crops,Djibouti,Production,Oranges,2018,tonnes,5
+Crops,Djibouti,Production,Oranges,2019,tonnes,5
+Crops,Djibouti,Production,"Pumpkins, squash and gourds",2016,tonnes,16
+Crops,Djibouti,Production,"Pumpkins, squash and gourds",2017,tonnes,16
+Crops,Djibouti,Production,"Pumpkins, squash and gourds",2018,tonnes,16
+Crops,Djibouti,Production,"Pumpkins, squash and gourds",2019,tonnes,17
+Crops,Djibouti,Production,Sugar cane,2016,tonnes,53
+Crops,Djibouti,Production,Sugar cane,2017,tonnes,53
+Crops,Djibouti,Production,Sugar cane,2018,tonnes,53
+Crops,Djibouti,Production,Sugar cane,2019,tonnes,53
+Crops,Djibouti,Production,Tomatoes,2016,tonnes,1689
+Crops,Djibouti,Production,Tomatoes,2017,tonnes,1703
+Crops,Djibouti,Production,Tomatoes,2018,tonnes,1717
+Crops,Djibouti,Production,Tomatoes,2019,tonnes,1731
+Crops,Djibouti,Production,"Vegetables, fresh nes",2016,tonnes,35263
+Crops,Djibouti,Production,"Vegetables, fresh nes",2017,tonnes,36146
+Crops,Djibouti,Production,"Vegetables, fresh nes",2018,tonnes,37028
+Crops,Djibouti,Production,"Vegetables, fresh nes",2019,tonnes,37911
+Crops,Djibouti,Production,Watermelons,2016,tonnes,68
+Crops,Djibouti,Production,Watermelons,2017,tonnes,68
+Crops,Djibouti,Production,Watermelons,2018,tonnes,68
+Crops,Djibouti,Production,Watermelons,2019,tonnes,68
+Crops,Eritrea,Production,Barley,2016,tonnes,65000
+Crops,Eritrea,Production,Barley,2017,tonnes,65000
+Crops,Eritrea,Production,Barley,2018,tonnes,65000
+Crops,Eritrea,Production,Barley,2019,tonnes,65000
+Crops,Eritrea,Production,"Beans, dry",2016,tonnes,121
+Crops,Eritrea,Production,"Beans, dry",2017,tonnes,121
+Crops,Eritrea,Production,"Beans, dry",2018,tonnes,121
+Crops,Eritrea,Production,"Beans, dry",2019,tonnes,121
+Crops,Eritrea,Production,Chick peas,2016,tonnes,3793
+Crops,Eritrea,Production,Chick peas,2017,tonnes,3858
+Crops,Eritrea,Production,Chick peas,2018,tonnes,3924
+Crops,Eritrea,Production,Chick peas,2019,tonnes,3989
+Crops,Eritrea,Production,"Groundnuts, with shell",2016,tonnes,2173
+Crops,Eritrea,Production,"Groundnuts, with shell",2017,tonnes,2193
+Crops,Eritrea,Production,"Groundnuts, with shell",2018,tonnes,2214
+Crops,Eritrea,Production,"Groundnuts, with shell",2019,tonnes,2234
+Crops,Eritrea,Production,Maize,2016,tonnes,20000
+Crops,Eritrea,Production,Maize,2017,tonnes,20000
+Crops,Eritrea,Production,Maize,2018,tonnes,20000
+Crops,Eritrea,Production,Maize,2019,tonnes,20000
+Crops,Eritrea,Production,Millet,2016,tonnes,25000
+Crops,Eritrea,Production,Millet,2017,tonnes,25000
+Crops,Eritrea,Production,Millet,2018,tonnes,25000
+Crops,Eritrea,Production,Millet,2019,tonnes,25000
+Crops,Eritrea,Production,"Peas, dry",2016,tonnes,659
+Crops,Eritrea,Production,"Peas, dry",2017,tonnes,614
+Crops,Eritrea,Production,"Peas, dry",2018,tonnes,570
+Crops,Eritrea,Production,"Peas, dry",2019,tonnes,529
+Crops,Eritrea,Production,Potatoes,2016,tonnes,61
+Crops,Eritrea,Production,Potatoes,2017,tonnes,58
+Crops,Eritrea,Production,Potatoes,2018,tonnes,81
+Crops,Eritrea,Production,Potatoes,2019,tonnes,81
+Crops,Eritrea,Production,Sorghum,2016,tonnes,140000
+Crops,Eritrea,Production,Sorghum,2017,tonnes,140000
+Crops,Eritrea,Production,Sorghum,2018,tonnes,140000
+Crops,Eritrea,Production,Sorghum,2019,tonnes,140000
+Crops,Eritrea,Production,"Vegetables, fresh nes",2016,tonnes,59923
+Crops,Eritrea,Production,"Vegetables, fresh nes",2017,tonnes,62448
+Crops,Eritrea,Production,"Vegetables, fresh nes",2018,tonnes,64973
+Crops,Eritrea,Production,"Vegetables, fresh nes",2019,tonnes,67498
+Crops,Eritrea,Production,Wheat,2016,tonnes,25000
+Crops,Eritrea,Production,Wheat,2017,tonnes,25000
+Crops,Eritrea,Production,Wheat,2018,tonnes,25000
+Crops,Eritrea,Production,Wheat,2019,tonnes,25000
+Crops,Ethiopia,Production,Avocados,2016,tonnes,64982
+Crops,Ethiopia,Production,Avocados,2017,tonnes,81432
+Crops,Ethiopia,Production,Avocados,2018,tonnes,84794
+Crops,Ethiopia,Production,Avocados,2019,tonnes,104492
+Crops,Ethiopia,Production,Bananas,2016,tonnes,538302
+Crops,Ethiopia,Production,Bananas,2017,tonnes,493602
+Crops,Ethiopia,Production,Bananas,2018,tonnes,501529
+Crops,Ethiopia,Production,Bananas,2019,tonnes,539443
+Crops,Ethiopia,Production,Barley,2016,tonnes,2221068
+Crops,Ethiopia,Production,Barley,2017,tonnes,1960276
+Crops,Ethiopia,Production,Barley,2018,tonnes,1748920
+Crops,Ethiopia,Production,Barley,2019,tonnes,2378010
+Crops,Ethiopia,Production,"Beans, dry",2016,tonnes,869847
+Crops,Ethiopia,Production,"Beans, dry",2017,tonnes,825423
+Crops,Ethiopia,Production,"Beans, dry",2018,tonnes,563922
+Crops,Ethiopia,Production,"Beans, dry",2019,tonnes,485547
+Crops,Ethiopia,Production,"Beans, green",2016,tonnes,7309
+Crops,Ethiopia,Production,"Beans, green",2017,tonnes,7545
+Crops,Ethiopia,Production,"Beans, green",2018,tonnes,7781
+Crops,Ethiopia,Production,"Beans, green",2019,tonnes,8017
+Crops,Ethiopia,Production,Cabbages and other brassicas,2016,tonnes,391578
+Crops,Ethiopia,Production,Cabbages and other brassicas,2017,tonnes,344992
+Crops,Ethiopia,Production,Cabbages and other brassicas,2018,tonnes,463049
+Crops,Ethiopia,Production,Cabbages and other brassicas,2019,tonnes,435863
+Crops,Ethiopia,Production,Carrots and turnips,2016,tonnes,9034
+Crops,Ethiopia,Production,Carrots and turnips,2017,tonnes,17333
+Crops,Ethiopia,Production,Carrots and turnips,2018,tonnes,10148
+Crops,Ethiopia,Production,Carrots and turnips,2019,tonnes,18225
+Crops,Ethiopia,Production,Castor oil seed,2016,tonnes,10000
+Crops,Ethiopia,Production,Castor oil seed,2017,tonnes,9399
+Crops,Ethiopia,Production,Castor oil seed,2018,tonnes,10919
+Crops,Ethiopia,Production,Castor oil seed,2019,tonnes,11157
+Crops,Ethiopia,Production,Chick peas,2016,tonnes,444146
+Crops,Ethiopia,Production,Chick peas,2017,tonnes,499426
+Crops,Ethiopia,Production,Chick peas,2018,tonnes,459173
+Crops,Ethiopia,Production,Chick peas,2019,tonnes,435193
+Crops,Ethiopia,Production,"Chillies and peppers, dry",2016,tonnes,329804
+Crops,Ethiopia,Production,"Chillies and peppers, dry",2017,tonnes,264723
+Crops,Ethiopia,Production,"Chillies and peppers, dry",2018,tonnes,307457
+Crops,Ethiopia,Production,"Chillies and peppers, dry",2019,tonnes,313115
+Crops,Ethiopia,Production,"Chillies and peppers, green",2016,tonnes,61794
+Crops,Ethiopia,Production,"Chillies and peppers, green",2017,tonnes,63240
+Crops,Ethiopia,Production,"Chillies and peppers, green",2018,tonnes,62248
+Crops,Ethiopia,Production,"Chillies and peppers, green",2019,tonnes,67203
+Crops,Ethiopia,Production,"Cow peas, dry",2016,tonnes,364918
+Crops,Ethiopia,Production,"Cow peas, dry",2017,tonnes,380002
+Crops,Ethiopia,Production,"Cow peas, dry",2018,tonnes,366953
+Crops,Ethiopia,Production,"Cow peas, dry",2019,tonnes,374332
+Crops,Ethiopia,Production,Fibre crops nes,2016,tonnes,21596
+Crops,Ethiopia,Production,Fibre crops nes,2017,tonnes,21743
+Crops,Ethiopia,Production,Fibre crops nes,2018,tonnes,21889
+Crops,Ethiopia,Production,Fibre crops nes,2019,tonnes,22036
+Crops,Ethiopia,Production,"Fruit, citrus nes",2016,tonnes,2640
+Crops,Ethiopia,Production,"Fruit, citrus nes",2017,tonnes,2419
+Crops,Ethiopia,Production,"Fruit, citrus nes",2018,tonnes,2240
+Crops,Ethiopia,Production,"Fruit, citrus nes",2019,tonnes,2096
+Crops,Ethiopia,Production,"Fruit, tropical fresh nes",2016,tonnes,48997
+Crops,Ethiopia,Production,"Fruit, tropical fresh nes",2017,tonnes,50744
+Crops,Ethiopia,Production,"Fruit, tropical fresh nes",2018,tonnes,52492
+Crops,Ethiopia,Production,"Fruit, tropical fresh nes",2019,tonnes,54240
+Crops,Ethiopia,Production,Garlic,2016,tonnes,138664
+Crops,Ethiopia,Production,Garlic,2017,tonnes,178222
+Crops,Ethiopia,Production,Garlic,2018,tonnes,195740
+Crops,Ethiopia,Production,Garlic,2019,tonnes,152595
+Crops,Ethiopia,Production,Ginger,2016,tonnes,11121
+Crops,Ethiopia,Production,Ginger,2017,tonnes,11328
+Crops,Ethiopia,Production,Ginger,2018,tonnes,11534
+Crops,Ethiopia,Production,Ginger,2019,tonnes,11741
+Crops,Ethiopia,Production,Grapes,2016,tonnes,4588
+Crops,Ethiopia,Production,Grapes,2017,tonnes,4475
+Crops,Ethiopia,Production,Grapes,2018,tonnes,4362
+Crops,Ethiopia,Production,Grapes,2019,tonnes,4249
+Crops,Ethiopia,Production,"Groundnuts, with shell",2016,tonnes,129636
+Crops,Ethiopia,Production,"Groundnuts, with shell",2017,tonnes,145173
+Crops,Ethiopia,Production,"Groundnuts, with shell",2018,tonnes,144091
+Crops,Ethiopia,Production,"Groundnuts, with shell",2019,tonnes,156533
+Crops,Ethiopia,Production,"Leeks, other alliaceous vegetables",2016,tonnes,3556
+Crops,Ethiopia,Production,"Leeks, other alliaceous vegetables",2017,tonnes,3627
+Crops,Ethiopia,Production,"Leeks, other alliaceous vegetables",2018,tonnes,3699
+Crops,Ethiopia,Production,"Leeks, other alliaceous vegetables",2019,tonnes,3771
+Crops,Ethiopia,Production,Lemons and limes,2016,tonnes,7781
+Crops,Ethiopia,Production,Lemons and limes,2017,tonnes,7925
+Crops,Ethiopia,Production,Lemons and limes,2018,tonnes,9448
+Crops,Ethiopia,Production,Lemons and limes,2019,tonnes,7961
+Crops,Ethiopia,Production,Maize,2016,tonnes,8846787
+Crops,Ethiopia,Production,Maize,2017,tonnes,10488193
+Crops,Ethiopia,Production,Maize,2018,tonnes,10119847
+Crops,Ethiopia,Production,Maize,2019,tonnes,9635735
+Crops,Ethiopia,Production,"Mangoes, mangosteens, guavas",2016,tonnes,104874
+Crops,Ethiopia,Production,"Mangoes, mangosteens, guavas",2017,tonnes,108181
+Crops,Ethiopia,Production,"Mangoes, mangosteens, guavas",2018,tonnes,136980
+Crops,Ethiopia,Production,"Mangoes, mangosteens, guavas",2019,tonnes,108948
+Crops,Ethiopia,Production,Millet,2016,tonnes,1017059
+Crops,Ethiopia,Production,Millet,2017,tonnes,1030823
+Crops,Ethiopia,Production,Millet,2018,tonnes,1035630
+Crops,Ethiopia,Production,Millet,2019,tonnes,1125958
+Crops,Ethiopia,Production,Mustard seed,2016,tonnes,2621
+Crops,Ethiopia,Production,Mustard seed,2017,tonnes,2642
+Crops,Ethiopia,Production,Mustard seed,2018,tonnes,2663
+Crops,Ethiopia,Production,Mustard seed,2019,tonnes,2683
+Crops,Ethiopia,Production,Oats,2016,tonnes,56039
+Crops,Ethiopia,Production,Oats,2017,tonnes,37822
+Crops,Ethiopia,Production,Oats,2018,tonnes,22123
+Crops,Ethiopia,Production,Oats,2019,tonnes,45754
+Crops,Ethiopia,Production,"Onions, dry",2016,tonnes,327475
+Crops,Ethiopia,Production,"Onions, dry",2017,tonnes,293888
+Crops,Ethiopia,Production,"Onions, dry",2018,tonnes,262478
+Crops,Ethiopia,Production,"Onions, dry",2019,tonnes,273859
+Crops,Ethiopia,Production,Oranges,2016,tonnes,20656
+Crops,Ethiopia,Production,Oranges,2017,tonnes,30561
+Crops,Ethiopia,Production,Oranges,2018,tonnes,41250
+Crops,Ethiopia,Production,Oranges,2019,tonnes,29669
+Crops,Ethiopia,Production,"Peas, dry",2016,tonnes,348145
+Crops,Ethiopia,Production,"Peas, dry",2017,tonnes,368519
+Crops,Ethiopia,Production,"Peas, dry",2018,tonnes,360811
+Crops,Ethiopia,Production,"Peas, dry",2019,tonnes,390564
+Crops,Ethiopia,Production,"Peas, green",2016,tonnes,3460
+Crops,Ethiopia,Production,"Peas, green",2017,tonnes,3599
+Crops,Ethiopia,Production,"Peas, green",2018,tonnes,3738
+Crops,Ethiopia,Production,"Peas, green",2019,tonnes,3877
+Crops,Ethiopia,Production,Pineapples,2016,tonnes,5269
+Crops,Ethiopia,Production,Pineapples,2017,tonnes,1375
+Crops,Ethiopia,Production,Pineapples,2018,tonnes,1152
+Crops,Ethiopia,Production,Pineapples,2019,tonnes,1164
+Crops,Ethiopia,Production,Potatoes,2016,tonnes,921403
+Crops,Ethiopia,Production,Potatoes,2017,tonnes,968970
+Crops,Ethiopia,Production,Potatoes,2018,tonnes,933109
+Crops,Ethiopia,Production,Potatoes,2019,tonnes,924528
+Crops,Ethiopia,Production,"Rice, paddy",2016,tonnes,136001
+Crops,Ethiopia,Production,"Rice, paddy",2017,tonnes,151018
+Crops,Ethiopia,Production,"Rice, paddy",2018,tonnes,171854
+Crops,Ethiopia,Production,"Rice, paddy",2019,tonnes,170630
+Crops,Ethiopia,Production,Seed cotton,2016,tonnes,115000
+Crops,Ethiopia,Production,Seed cotton,2017,tonnes,130000
+Crops,Ethiopia,Production,Seed cotton,2018,tonnes,140000
+Crops,Ethiopia,Production,Seed cotton,2019,tonnes,154622
+Crops,Ethiopia,Production,Sisal,2016,tonnes,708
+Crops,Ethiopia,Production,Sisal,2017,tonnes,724
+Crops,Ethiopia,Production,Sisal,2018,tonnes,740
+Crops,Ethiopia,Production,Sisal,2019,tonnes,756
+Crops,Ethiopia,Production,Sorghum,2016,tonnes,4752096
+Crops,Ethiopia,Production,Sorghum,2017,tonnes,5169253
+Crops,Ethiopia,Production,Sorghum,2018,tonnes,5024368
+Crops,Ethiopia,Production,Sorghum,2019,tonnes,5265580
+Crops,Ethiopia,Production,Soybeans,2016,tonnes,81235
+Crops,Ethiopia,Production,Soybeans,2017,tonnes,86468
+Crops,Ethiopia,Production,Soybeans,2018,tonnes,149455
+Crops,Ethiopia,Production,Soybeans,2019,tonnes,125623
+Crops,Ethiopia,Production,Sugar cane,2016,tonnes,1407680
+Crops,Ethiopia,Production,Sugar cane,2017,tonnes,1136020
+Crops,Ethiopia,Production,Sugar cane,2018,tonnes,1294081
+Crops,Ethiopia,Production,Sugar cane,2019,tonnes,1499134
+Crops,Ethiopia,Production,Sunflower seed,2016,tonnes,7110
+Crops,Ethiopia,Production,Sunflower seed,2017,tonnes,7425
+Crops,Ethiopia,Production,Sunflower seed,2018,tonnes,6894
+Crops,Ethiopia,Production,Sunflower seed,2019,tonnes,6670
+Crops,Ethiopia,Production,Sweet potatoes,2016,tonnes,2207820
+Crops,Ethiopia,Production,Sweet potatoes,2017,tonnes,1799384
+Crops,Ethiopia,Production,Sweet potatoes,2018,tonnes,1512112
+Crops,Ethiopia,Production,Sweet potatoes,2019,tonnes,1755855
+Crops,Ethiopia,Production,Tea,2016,tonnes,11601
+Crops,Ethiopia,Production,Tea,2017,tonnes,11926
+Crops,Ethiopia,Production,Tea,2018,tonnes,12448
+Crops,Ethiopia,Production,Tea,2019,tonnes,12969
+Crops,Ethiopia,Production,Tomatoes,2016,tonnes,28365
+Crops,Ethiopia,Production,Tomatoes,2017,tonnes,27775
+Crops,Ethiopia,Production,Tomatoes,2018,tonnes,23584
+Crops,Ethiopia,Production,Tomatoes,2019,tonnes,34947
+Crops,Ethiopia,Production,"Vegetables, fresh nes",2016,tonnes,1501
+Crops,Ethiopia,Production,"Vegetables, fresh nes",2017,tonnes,914
+Crops,Ethiopia,Production,"Vegetables, fresh nes",2018,tonnes,46
+Crops,Ethiopia,Production,"Vegetables, fresh nes",2019,tonnes,65
+Crops,Ethiopia,Production,"Vegetables, leguminous nes",2016,tonnes,12782
+Crops,Ethiopia,Production,"Vegetables, leguminous nes",2017,tonnes,13523
+Crops,Ethiopia,Production,"Vegetables, leguminous nes",2018,tonnes,14264
+Crops,Ethiopia,Production,"Vegetables, leguminous nes",2019,tonnes,15006
+Crops,Ethiopia,Production,Wheat,2016,tonnes,4537852
+Crops,Ethiopia,Production,Wheat,2017,tonnes,4642966
+Crops,Ethiopia,Production,Wheat,2018,tonnes,4838074
+Crops,Ethiopia,Production,Wheat,2019,tonnes,5315270
+Crops,Ethiopia,Production,Yams,2016,tonnes,50964
+Crops,Ethiopia,Production,Yams,2017,tonnes,48740
+Crops,Ethiopia,Production,Yams,2018,tonnes,36901
+Crops,Ethiopia,Production,Yams,2019,tonnes,49227
+Crops,Kenya,Production,Apples,2016,tonnes,623
+Crops,Kenya,Production,Apples,2017,tonnes,300
+Crops,Kenya,Production,Apples,2018,tonnes,426
+Crops,Kenya,Production,Apples,2019,tonnes,702
+Crops,Kenya,Production,Avocados,2016,tonnes,176045
+Crops,Kenya,Production,Avocados,2017,tonnes,217688
+Crops,Kenya,Production,Avocados,2018,tonnes,233933
+Crops,Kenya,Production,Avocados,2019,tonnes,364935
+Crops,Kenya,Production,Bananas,2016,tonnes,1288588
+Crops,Kenya,Production,Bananas,2017,tonnes,1434162
+Crops,Kenya,Production,Bananas,2018,tonnes,1414176
+Crops,Kenya,Production,Bananas,2019,tonnes,1715770
+Crops,Kenya,Production,Barley,2016,tonnes,62000
+Crops,Kenya,Production,Barley,2017,tonnes,77000
+Crops,Kenya,Production,Barley,2018,tonnes,78267
+Crops,Kenya,Production,Barley,2019,tonnes,85781
+Crops,Kenya,Production,"Beans, dry",2016,tonnes,728160
+Crops,Kenya,Production,"Beans, dry",2017,tonnes,846000
+Crops,Kenya,Production,"Beans, dry",2018,tonnes,837000
+Crops,Kenya,Production,"Beans, dry",2019,tonnes,747000
+Crops,Kenya,Production,"Beans, green",2016,tonnes,42321
+Crops,Kenya,Production,"Beans, green",2017,tonnes,41686
+Crops,Kenya,Production,"Beans, green",2018,tonnes,41051
+Crops,Kenya,Production,"Beans, green",2019,tonnes,40416
+Crops,Kenya,Production,Cabbages and other brassicas,2016,tonnes,775994
+Crops,Kenya,Production,Cabbages and other brassicas,2017,tonnes,764480
+Crops,Kenya,Production,Cabbages and other brassicas,2018,tonnes,674253
+Crops,Kenya,Production,Cabbages and other brassicas,2019,tonnes,829331
+Crops,Kenya,Production,Carrots and turnips,2016,tonnes,110946
+Crops,Kenya,Production,Carrots and turnips,2017,tonnes,199584
+Crops,Kenya,Production,Carrots and turnips,2018,tonnes,239542
+Crops,Kenya,Production,Carrots and turnips,2019,tonnes,329025
+Crops,Kenya,Production,"Cashew nuts, with shell",2016,tonnes,24954
+Crops,Kenya,Production,"Cashew nuts, with shell",2017,tonnes,19066
+Crops,Kenya,Production,"Cashew nuts, with shell",2018,tonnes,13852
+Crops,Kenya,Production,"Cashew nuts, with shell",2019,tonnes,12802
+Crops,Kenya,Production,Cassava,2016,tonnes,571848
+Crops,Kenya,Production,Cassava,2017,tonnes,789830
+Crops,Kenya,Production,Cassava,2018,tonnes,945991
+Crops,Kenya,Production,Cassava,2019,tonnes,970587
+Crops,Kenya,Production,Castor oil seed,2016,tonnes,3000
+Crops,Kenya,Production,Castor oil seed,2017,tonnes,3000
+Crops,Kenya,Production,Castor oil seed,2018,tonnes,3000
+Crops,Kenya,Production,Castor oil seed,2019,tonnes,4000
+Crops,Kenya,Production,Cauliflowers and broccoli,2016,tonnes,941
+Crops,Kenya,Production,Cauliflowers and broccoli,2017,tonnes,4167
+Crops,Kenya,Production,Cauliflowers and broccoli,2018,tonnes,5823
+Crops,Kenya,Production,Cauliflowers and broccoli,2019,tonnes,10680
+Crops,Kenya,Production,Chick peas,2016,tonnes,1385
+Crops,Kenya,Production,Chick peas,2017,tonnes,1359
+Crops,Kenya,Production,Chick peas,2018,tonnes,1333
+Crops,Kenya,Production,Chick peas,2019,tonnes,1306
+Crops,Kenya,Production,"Chillies and peppers, dry",2016,tonnes,3000
+Crops,Kenya,Production,"Chillies and peppers, dry",2017,tonnes,2830
+Crops,Kenya,Production,"Chillies and peppers, dry",2018,tonnes,2660
+Crops,Kenya,Production,"Chillies and peppers, dry",2019,tonnes,2490
+Crops,Kenya,Production,"Chillies and peppers, green",2016,tonnes,2497
+Crops,Kenya,Production,"Chillies and peppers, green",2017,tonnes,2230
+Crops,Kenya,Production,"Chillies and peppers, green",2018,tonnes,2130
+Crops,Kenya,Production,"Chillies and peppers, green",2019,tonnes,2058
+Crops,Kenya,Production,"Cow peas, dry",2016,tonnes,146807
+Crops,Kenya,Production,"Cow peas, dry",2017,tonnes,122682
+Crops,Kenya,Production,"Cow peas, dry",2018,tonnes,193892
+Crops,Kenya,Production,"Cow peas, dry",2019,tonnes,246870
+Crops,Kenya,Production,"Fruit, citrus nes",2016,tonnes,88515
+Crops,Kenya,Production,"Fruit, citrus nes",2017,tonnes,86470
+Crops,Kenya,Production,"Fruit, citrus nes",2018,tonnes,84425
+Crops,Kenya,Production,"Fruit, citrus nes",2019,tonnes,82380
+Crops,Kenya,Production,"Fruit, tropical fresh nes",2016,tonnes,39806
+Crops,Kenya,Production,"Fruit, tropical fresh nes",2017,tonnes,39179
+Crops,Kenya,Production,"Fruit, tropical fresh nes",2018,tonnes,39100
+Crops,Kenya,Production,"Fruit, tropical fresh nes",2019,tonnes,39078
+Crops,Kenya,Production,Garlic,2016,tonnes,2049
+Crops,Kenya,Production,Garlic,2017,tonnes,2493
+Crops,Kenya,Production,Garlic,2018,tonnes,1726
+Crops,Kenya,Production,Garlic,2019,tonnes,2067
+Crops,Kenya,Production,Ginger,2016,tonnes,224
+Crops,Kenya,Production,Ginger,2017,tonnes,84
+Crops,Kenya,Production,Ginger,2018,tonnes,15
+Crops,Kenya,Production,Ginger,2019,tonnes,359
+Crops,Kenya,Production,"Groundnuts, with shell",2016,tonnes,10687
+Crops,Kenya,Production,"Groundnuts, with shell",2017,tonnes,19273
+Crops,Kenya,Production,"Groundnuts, with shell",2018,tonnes,21333
+Crops,Kenya,Production,"Groundnuts, with shell",2019,tonnes,15463
+Crops,Kenya,Production,"Leeks, other alliaceous vegetables",2016,tonnes,317
+Crops,Kenya,Production,"Leeks, other alliaceous vegetables",2017,tonnes,313
+Crops,Kenya,Production,"Leeks, other alliaceous vegetables",2018,tonnes,309
+Crops,Kenya,Production,"Leeks, other alliaceous vegetables",2019,tonnes,305
+Crops,Kenya,Production,Lemons and limes,2016,tonnes,18054
+Crops,Kenya,Production,Lemons and limes,2017,tonnes,14364
+Crops,Kenya,Production,Lemons and limes,2018,tonnes,20555
+Crops,Kenya,Production,Lemons and limes,2019,tonnes,25899
+Crops,Kenya,Production,Maize,2016,tonnes,3339000
+Crops,Kenya,Production,Maize,2017,tonnes,3186000
+Crops,Kenya,Production,Maize,2018,tonnes,4013777
+Crops,Kenya,Production,Maize,2019,tonnes,3897000
+Crops,Kenya,Production,"Mangoes, mangosteens, guavas",2016,tonnes,801653
+Crops,Kenya,Production,"Mangoes, mangosteens, guavas",2017,tonnes,564010
+Crops,Kenya,Production,"Mangoes, mangosteens, guavas",2018,tonnes,676377
+Crops,Kenya,Production,"Mangoes, mangosteens, guavas",2019,tonnes,867951
+Crops,Kenya,Production,Millet,2016,tonnes,54000
+Crops,Kenya,Production,Millet,2017,tonnes,54000
+Crops,Kenya,Production,Millet,2018,tonnes,72000
+Crops,Kenya,Production,Millet,2019,tonnes,135000
+Crops,Kenya,Production,Oats,2016,tonnes,3620
+Crops,Kenya,Production,Oats,2017,tonnes,3613
+Crops,Kenya,Production,Oats,2018,tonnes,3607
+Crops,Kenya,Production,Oats,2019,tonnes,3601
+Crops,Kenya,Production,"Onions, dry",2016,tonnes,51182
+Crops,Kenya,Production,"Onions, dry",2017,tonnes,19212
+Crops,Kenya,Production,"Onions, dry",2018,tonnes,34945
+Crops,Kenya,Production,"Onions, dry",2019,tonnes,42759
+Crops,Kenya,Production,Oranges,2016,tonnes,85233
+Crops,Kenya,Production,Oranges,2017,tonnes,72437
+Crops,Kenya,Production,Oranges,2018,tonnes,71617
+Crops,Kenya,Production,Oranges,2019,tonnes,69733
+Crops,Kenya,Production,"Peas, green",2016,tonnes,45732
+Crops,Kenya,Production,"Peas, green",2017,tonnes,25000
+Crops,Kenya,Production,"Peas, green",2018,tonnes,63471
+Crops,Kenya,Production,"Peas, green",2019,tonnes,73118
+Crops,Kenya,Production,Pineapples,2016,tonnes,224190
+Crops,Kenya,Production,Pineapples,2017,tonnes,399972
+Crops,Kenya,Production,Pineapples,2018,tonnes,349431
+Crops,Kenya,Production,Pineapples,2019,tonnes,278179
+Crops,Kenya,Production,Potatoes,2016,tonnes,1335883
+Crops,Kenya,Production,Potatoes,2017,tonnes,1519870
+Crops,Kenya,Production,Potatoes,2018,tonnes,1870375
+Crops,Kenya,Production,Potatoes,2019,tonnes,2000000
+Crops,Kenya,Production,"Pyrethrum, dried",2016,tonnes,239
+Crops,Kenya,Production,"Pyrethrum, dried",2017,tonnes,166
+Crops,Kenya,Production,"Pyrethrum, dried",2018,tonnes,212
+Crops,Kenya,Production,"Pyrethrum, dried",2019,tonnes,217
+Crops,Kenya,Production,"Rice, paddy",2016,tonnes,101510
+Crops,Kenya,Production,"Rice, paddy",2017,tonnes,81198
+Crops,Kenya,Production,"Rice, paddy",2018,tonnes,112605
+Crops,Kenya,Production,"Rice, paddy",2019,tonnes,160584
+Crops,Kenya,Production,Seed cotton,2016,tonnes,15800
+Crops,Kenya,Production,Seed cotton,2017,tonnes,14500
+Crops,Kenya,Production,Seed cotton,2018,tonnes,5923
+Crops,Kenya,Production,Seed cotton,2019,tonnes,6077
+Crops,Kenya,Production,Sisal,2016,tonnes,22657
+Crops,Kenya,Production,Sisal,2017,tonnes,22060
+Crops,Kenya,Production,Sisal,2018,tonnes,21486
+Crops,Kenya,Production,Sisal,2019,tonnes,21009
+Crops,Kenya,Production,Sorghum,2016,tonnes,117000
+Crops,Kenya,Production,Sorghum,2017,tonnes,144000
+Crops,Kenya,Production,Sorghum,2018,tonnes,189000
+Crops,Kenya,Production,Sorghum,2019,tonnes,288000
+Crops,Kenya,Production,Soybeans,2016,tonnes,2007
+Crops,Kenya,Production,Soybeans,2017,tonnes,2518
+Crops,Kenya,Production,Soybeans,2018,tonnes,2398
+Crops,Kenya,Production,Soybeans,2019,tonnes,2396
+Crops,Kenya,Production,Spinach,2016,tonnes,75563
+Crops,Kenya,Production,Spinach,2017,tonnes,130808
+Crops,Kenya,Production,Spinach,2018,tonnes,169356
+Crops,Kenya,Production,Spinach,2019,tonnes,178707
+Crops,Kenya,Production,Sugar cane,2016,tonnes,7094619
+Crops,Kenya,Production,Sugar cane,2017,tonnes,4751605
+Crops,Kenya,Production,Sugar cane,2018,tonnes,5262157
+Crops,Kenya,Production,Sugar cane,2019,tonnes,4606100
+Crops,Kenya,Production,Sunflower seed,2016,tonnes,14131
+Crops,Kenya,Production,Sunflower seed,2017,tonnes,14514
+Crops,Kenya,Production,Sunflower seed,2018,tonnes,14368
+Crops,Kenya,Production,Sunflower seed,2019,tonnes,14459
+Crops,Kenya,Production,Sweet potatoes,2016,tonnes,697364
+Crops,Kenya,Production,Sweet potatoes,2017,tonnes,769389
+Crops,Kenya,Production,Sweet potatoes,2018,tonnes,871010
+Crops,Kenya,Production,Sweet potatoes,2019,tonnes,893656
+Crops,Kenya,Production,Tea,2016,tonnes,473000
+Crops,Kenya,Production,Tea,2017,tonnes,439857
+Crops,Kenya,Production,Tea,2018,tonnes,492990
+Crops,Kenya,Production,Tea,2019,tonnes,458850
+Crops,Kenya,Production,Tomatoes,2016,tonnes,410033
+Crops,Kenya,Production,Tomatoes,2017,tonnes,507142
+Crops,Kenya,Production,Tomatoes,2018,tonnes,599458
+Crops,Kenya,Production,Tomatoes,2019,tonnes,542686
+Crops,Kenya,Production,"Vegetables, fresh nes",2016,tonnes,630000
+Crops,Kenya,Production,"Vegetables, fresh nes",2017,tonnes,650000
+Crops,Kenya,Production,"Vegetables, fresh nes",2018,tonnes,670000
+Crops,Kenya,Production,"Vegetables, fresh nes",2019,tonnes,670173
+Crops,Kenya,Production,"Vegetables, leguminous nes",2016,tonnes,1436
+Crops,Kenya,Production,"Vegetables, leguminous nes",2017,tonnes,1461
+Crops,Kenya,Production,"Vegetables, leguminous nes",2018,tonnes,1486
+Crops,Kenya,Production,"Vegetables, leguminous nes",2019,tonnes,1512
+Crops,Kenya,Production,Watermelons,2016,tonnes,173697
+Crops,Kenya,Production,Watermelons,2017,tonnes,129155
+Crops,Kenya,Production,Watermelons,2018,tonnes,188793
+Crops,Kenya,Production,Watermelons,2019,tonnes,242547
+Crops,Kenya,Production,Wheat,2016,tonnes,214700
+Crops,Kenya,Production,Wheat,2017,tonnes,165200
+Crops,Kenya,Production,Wheat,2018,tonnes,336600
+Crops,Kenya,Production,Wheat,2019,tonnes,366200
+Crops,Kenya,Production,Yams,2016,tonnes,12388
+Crops,Kenya,Production,Yams,2017,tonnes,10417
+Crops,Kenya,Production,Yams,2018,tonnes,9610
+Crops,Kenya,Production,Yams,2019,tonnes,9860
+Crops,Madagascar,Production,Apples,2016,tonnes,7102
+Crops,Madagascar,Production,Apples,2017,tonnes,7113
+Crops,Madagascar,Production,Apples,2018,tonnes,7125
+Crops,Madagascar,Production,Apples,2019,tonnes,7137
+Crops,Madagascar,Production,Avocados,2016,tonnes,26333
+Crops,Madagascar,Production,Avocados,2017,tonnes,26495
+Crops,Madagascar,Production,Avocados,2018,tonnes,26656
+Crops,Madagascar,Production,Avocados,2019,tonnes,26818
+Crops,Madagascar,Production,Bananas,2016,tonnes,376340
+Crops,Madagascar,Production,Bananas,2017,tonnes,381778
+Crops,Madagascar,Production,Bananas,2018,tonnes,387215
+Crops,Madagascar,Production,Bananas,2019,tonnes,392652
+Crops,Madagascar,Production,"Beans, dry",2016,tonnes,87935
+Crops,Madagascar,Production,"Beans, dry",2017,tonnes,86538
+Crops,Madagascar,Production,"Beans, dry",2018,tonnes,86282
+Crops,Madagascar,Production,"Beans, dry",2019,tonnes,63000
+Crops,Madagascar,Production,"Beans, green",2016,tonnes,873
+Crops,Madagascar,Production,"Beans, green",2017,tonnes,812
+Crops,Madagascar,Production,"Beans, green",2018,tonnes,751
+Crops,Madagascar,Production,"Beans, green",2019,tonnes,689
+Crops,Madagascar,Production,Cabbages and other brassicas,2016,tonnes,18531
+Crops,Madagascar,Production,Cabbages and other brassicas,2017,tonnes,18794
+Crops,Madagascar,Production,Cabbages and other brassicas,2018,tonnes,19056
+Crops,Madagascar,Production,Cabbages and other brassicas,2019,tonnes,19319
+Crops,Madagascar,Production,Carrots and turnips,2016,tonnes,9981
+Crops,Madagascar,Production,Carrots and turnips,2017,tonnes,10297
+Crops,Madagascar,Production,Carrots and turnips,2018,tonnes,10612
+Crops,Madagascar,Production,Carrots and turnips,2019,tonnes,10928
+Crops,Madagascar,Production,"Cashew nuts, with shell",2016,tonnes,7129
+Crops,Madagascar,Production,"Cashew nuts, with shell",2017,tonnes,7155
+Crops,Madagascar,Production,"Cashew nuts, with shell",2018,tonnes,7182
+Crops,Madagascar,Production,"Cashew nuts, with shell",2019,tonnes,7208
+Crops,Madagascar,Production,Cassava,2016,tonnes,2629478
+Crops,Madagascar,Production,Cassava,2017,tonnes,2522722
+Crops,Madagascar,Production,Cassava,2018,tonnes,2500000
+Crops,Madagascar,Production,Cassava,2019,tonnes,2913862
+Crops,Madagascar,Production,Castor oil seed,2016,tonnes,2698
+Crops,Madagascar,Production,Castor oil seed,2017,tonnes,2680
+Crops,Madagascar,Production,Castor oil seed,2018,tonnes,2689
+Crops,Madagascar,Production,Castor oil seed,2019,tonnes,2698
+Crops,Madagascar,Production,Cauliflowers and broccoli,2016,tonnes,230
+Crops,Madagascar,Production,Cauliflowers and broccoli,2017,tonnes,204
+Crops,Madagascar,Production,Cauliflowers and broccoli,2018,tonnes,178
+Crops,Madagascar,Production,Cauliflowers and broccoli,2019,tonnes,152
+Crops,Madagascar,Production,"Chillies and peppers, dry",2016,tonnes,1762
+Crops,Madagascar,Production,"Chillies and peppers, dry",2017,tonnes,1634
+Crops,Madagascar,Production,"Chillies and peppers, dry",2018,tonnes,1506
+Crops,Madagascar,Production,"Chillies and peppers, dry",2019,tonnes,1378
+Crops,Madagascar,Production,"Chillies and peppers, green",2016,tonnes,426
+Crops,Madagascar,Production,"Chillies and peppers, green",2017,tonnes,448
+Crops,Madagascar,Production,"Chillies and peppers, green",2018,tonnes,470
+Crops,Madagascar,Production,"Chillies and peppers, green",2019,tonnes,492
+Crops,Madagascar,Production,"Cocoa, beans",2016,tonnes,11179
+Crops,Madagascar,Production,"Cocoa, beans",2017,tonnes,10834
+Crops,Madagascar,Production,"Cocoa, beans",2018,tonnes,12000
+Crops,Madagascar,Production,"Cocoa, beans",2019,tonnes,10175
+Crops,Madagascar,Production,"Cow peas, dry",2016,tonnes,15900
+Crops,Madagascar,Production,"Cow peas, dry",2017,tonnes,19400
+Crops,Madagascar,Production,"Cow peas, dry",2018,tonnes,25400
+Crops,Madagascar,Production,"Cow peas, dry",2019,tonnes,31069
+Crops,Madagascar,Production,Fibre crops nes,2016,tonnes,6044
+Crops,Madagascar,Production,Fibre crops nes,2017,tonnes,5972
+Crops,Madagascar,Production,Fibre crops nes,2018,tonnes,5899
+Crops,Madagascar,Production,Fibre crops nes,2019,tonnes,5827
+Crops,Madagascar,Production,"Fruit, tropical fresh nes",2016,tonnes,252061
+Crops,Madagascar,Production,"Fruit, tropical fresh nes",2017,tonnes,255878
+Crops,Madagascar,Production,"Fruit, tropical fresh nes",2018,tonnes,259694
+Crops,Madagascar,Production,"Fruit, tropical fresh nes",2019,tonnes,263511
+Crops,Madagascar,Production,Garlic,2016,tonnes,2826
+Crops,Madagascar,Production,Garlic,2017,tonnes,2874
+Crops,Madagascar,Production,Garlic,2018,tonnes,2922
+Crops,Madagascar,Production,Garlic,2019,tonnes,2972
+Crops,Madagascar,Production,Ginger,2016,tonnes,130
+Crops,Madagascar,Production,Ginger,2017,tonnes,115
+Crops,Madagascar,Production,Ginger,2018,tonnes,119
+Crops,Madagascar,Production,Ginger,2019,tonnes,128
+Crops,Madagascar,Production,Grapes,2016,tonnes,13239
+Crops,Madagascar,Production,Grapes,2017,tonnes,13322
+Crops,Madagascar,Production,Grapes,2018,tonnes,13409
+Crops,Madagascar,Production,Grapes,2019,tonnes,13496
+Crops,Madagascar,Production,"Groundnuts, with shell",2016,tonnes,58302
+Crops,Madagascar,Production,"Groundnuts, with shell",2017,tonnes,58116
+Crops,Madagascar,Production,"Groundnuts, with shell",2018,tonnes,58299
+Crops,Madagascar,Production,"Groundnuts, with shell",2019,tonnes,58500
+Crops,Madagascar,Production,Lemons and limes,2016,tonnes,4494
+Crops,Madagascar,Production,Lemons and limes,2017,tonnes,4415
+Crops,Madagascar,Production,Lemons and limes,2018,tonnes,4337
+Crops,Madagascar,Production,Lemons and limes,2019,tonnes,4259
+Crops,Madagascar,Production,Maize,2016,tonnes,316331
+Crops,Madagascar,Production,Maize,2017,tonnes,281487
+Crops,Madagascar,Production,Maize,2018,tonnes,215000
+Crops,Madagascar,Production,Maize,2019,tonnes,219220
+Crops,Madagascar,Production,"Mangoes, mangosteens, guavas",2016,tonnes,291915
+Crops,Madagascar,Production,"Mangoes, mangosteens, guavas",2017,tonnes,294193
+Crops,Madagascar,Production,"Mangoes, mangosteens, guavas",2018,tonnes,296472
+Crops,Madagascar,Production,"Mangoes, mangosteens, guavas",2019,tonnes,298750
+Crops,Madagascar,Production,Oil palm fruit,2016,tonnes,21133
+Crops,Madagascar,Production,Oil palm fruit,2017,tonnes,21123
+Crops,Madagascar,Production,Oil palm fruit,2018,tonnes,21112
+Crops,Madagascar,Production,Oil palm fruit,2019,tonnes,21101
+Crops,Madagascar,Production,"Onions, dry",2016,tonnes,11609
+Crops,Madagascar,Production,"Onions, dry",2017,tonnes,12061
+Crops,Madagascar,Production,"Onions, dry",2018,tonnes,12513
+Crops,Madagascar,Production,"Onions, dry",2019,tonnes,12966
+Crops,Madagascar,Production,Oranges,2016,tonnes,83955
+Crops,Madagascar,Production,Oranges,2017,tonnes,83953
+Crops,Madagascar,Production,Oranges,2018,tonnes,83950
+Crops,Madagascar,Production,Oranges,2019,tonnes,83947
+Crops,Madagascar,Production,"Peas, dry",2016,tonnes,21145
+Crops,Madagascar,Production,"Peas, dry",2017,tonnes,21578
+Crops,Madagascar,Production,"Peas, dry",2018,tonnes,22011
+Crops,Madagascar,Production,"Peas, dry",2019,tonnes,22444
+Crops,Madagascar,Production,"Peas, green",2016,tonnes,1499
+Crops,Madagascar,Production,"Peas, green",2017,tonnes,1556
+Crops,Madagascar,Production,"Peas, green",2018,tonnes,1614
+Crops,Madagascar,Production,"Peas, green",2019,tonnes,1671
+Crops,Madagascar,Production,Pineapples,2016,tonnes,93261
+Crops,Madagascar,Production,Pineapples,2017,tonnes,97042
+Crops,Madagascar,Production,Pineapples,2018,tonnes,100822
+Crops,Madagascar,Production,Pineapples,2019,tonnes,104603
+Crops,Madagascar,Production,Potatoes,2016,tonnes,244412
+Crops,Madagascar,Production,Potatoes,2017,tonnes,250160
+Crops,Madagascar,Production,Potatoes,2018,tonnes,257379
+Crops,Madagascar,Production,Potatoes,2019,tonnes,250000
+Crops,Madagascar,Production,"Rice, paddy",2016,tonnes,3815849
+Crops,Madagascar,Production,"Rice, paddy",2017,tonnes,3600500
+Crops,Madagascar,Production,"Rice, paddy",2018,tonnes,4030000
+Crops,Madagascar,Production,"Rice, paddy",2019,tonnes,4231145
+Crops,Madagascar,Production,Seed cotton,2016,tonnes,15142
+Crops,Madagascar,Production,Seed cotton,2017,tonnes,15638
+Crops,Madagascar,Production,Seed cotton,2018,tonnes,15824
+Crops,Madagascar,Production,Seed cotton,2019,tonnes,16009
+Crops,Madagascar,Production,Sisal,2016,tonnes,17488
+Crops,Madagascar,Production,Sisal,2017,tonnes,17509
+Crops,Madagascar,Production,Sisal,2018,tonnes,17531
+Crops,Madagascar,Production,Sisal,2019,tonnes,17552
+Crops,Madagascar,Production,Sorghum,2016,tonnes,1304
+Crops,Madagascar,Production,Sorghum,2017,tonnes,1324
+Crops,Madagascar,Production,Sorghum,2018,tonnes,1335
+Crops,Madagascar,Production,Sorghum,2019,tonnes,1347
+Crops,Madagascar,Production,Soybeans,2016,tonnes,46
+Crops,Madagascar,Production,Soybeans,2017,tonnes,45
+Crops,Madagascar,Production,Soybeans,2018,tonnes,45
+Crops,Madagascar,Production,Soybeans,2019,tonnes,45
+Crops,Madagascar,Production,Sugar cane,2016,tonnes,3045616
+Crops,Madagascar,Production,Sugar cane,2017,tonnes,3088464
+Crops,Madagascar,Production,Sugar cane,2018,tonnes,3131313
+Crops,Madagascar,Production,Sugar cane,2019,tonnes,3174161
+Crops,Madagascar,Production,Sweet potatoes,2016,tonnes,1113176
+Crops,Madagascar,Production,Sweet potatoes,2017,tonnes,1034651
+Crops,Madagascar,Production,Sweet potatoes,2018,tonnes,1088922
+Crops,Madagascar,Production,Sweet potatoes,2019,tonnes,1113142
+Crops,Madagascar,Production,Tea,2016,tonnes,389
+Crops,Madagascar,Production,Tea,2017,tonnes,391
+Crops,Madagascar,Production,Tea,2018,tonnes,393
+Crops,Madagascar,Production,Tea,2019,tonnes,396
+Crops,Madagascar,Production,Tomatoes,2016,tonnes,41046
+Crops,Madagascar,Production,Tomatoes,2017,tonnes,41407
+Crops,Madagascar,Production,Tomatoes,2018,tonnes,41768
+Crops,Madagascar,Production,Tomatoes,2019,tonnes,42129
+Crops,Madagascar,Production,"Vegetables, fresh nes",2016,tonnes,388563
+Crops,Madagascar,Production,"Vegetables, fresh nes",2017,tonnes,396783
+Crops,Madagascar,Production,"Vegetables, fresh nes",2018,tonnes,405003
+Crops,Madagascar,Production,"Vegetables, fresh nes",2019,tonnes,413223
+Crops,Madagascar,Production,Wheat,2016,tonnes,5000
+Crops,Madagascar,Production,Wheat,2017,tonnes,5000
+Crops,Madagascar,Production,Wheat,2018,tonnes,5000
+Crops,Madagascar,Production,Wheat,2019,tonnes,5000
+Crops,Malawi,Production,Apples,2016,tonnes,3313
+Crops,Malawi,Production,Apples,2017,tonnes,3447
+Crops,Malawi,Production,Apples,2018,tonnes,2639
+Crops,Malawi,Production,Apples,2019,tonnes,2978
+Crops,Malawi,Production,Avocados,2016,tonnes,86769
+Crops,Malawi,Production,Avocados,2017,tonnes,97358
+Crops,Malawi,Production,Avocados,2018,tonnes,92239
+Crops,Malawi,Production,Avocados,2019,tonnes,93341
+Crops,Malawi,Production,Bananas,2016,tonnes,419861
+Crops,Malawi,Production,Bananas,2017,tonnes,424413
+Crops,Malawi,Production,Bananas,2018,tonnes,428965
+Crops,Malawi,Production,Bananas,2019,tonnes,433517
+Crops,Malawi,Production,"Beans, dry",2016,tonnes,157769
+Crops,Malawi,Production,"Beans, dry",2017,tonnes,198486
+Crops,Malawi,Production,"Beans, dry",2018,tonnes,188158
+Crops,Malawi,Production,"Beans, dry",2019,tonnes,191286
+Crops,Malawi,Production,Cabbages and other brassicas,2016,tonnes,196435
+Crops,Malawi,Production,Cabbages and other brassicas,2017,tonnes,209125
+Crops,Malawi,Production,Cabbages and other brassicas,2018,tonnes,187874
+Crops,Malawi,Production,Cabbages and other brassicas,2019,tonnes,186900
+Crops,Malawi,Production,Carrots and turnips,2016,tonnes,
+Crops,Malawi,Production,Carrots and turnips,2018,tonnes,4181
+Crops,Malawi,Production,Carrots and turnips,2019,tonnes,4000
+Crops,Malawi,Production,"Cashew nuts, with shell",2016,tonnes,132
+Crops,Malawi,Production,"Cashew nuts, with shell",2017,tonnes,223
+Crops,Malawi,Production,"Cashew nuts, with shell",2018,tonnes,216
+Crops,Malawi,Production,"Cashew nuts, with shell",2019,tonnes,214
+Crops,Malawi,Production,Cassava,2016,tonnes,4996843
+Crops,Malawi,Production,Cassava,2017,tonnes,4960556
+Crops,Malawi,Production,Cassava,2018,tonnes,5410506
+Crops,Malawi,Production,Cassava,2019,tonnes,5667887
+Crops,Malawi,Production,Chick peas,2016,tonnes,19577
+Crops,Malawi,Production,Chick peas,2017,tonnes,1847
+Crops,Malawi,Production,Chick peas,2018,tonnes,1786
+Crops,Malawi,Production,Chick peas,2019,tonnes,1339
+Crops,Malawi,Production,"Chillies and peppers, dry",2016,tonnes,1300
+Crops,Malawi,Production,"Chillies and peppers, dry",2017,tonnes,1500
+Crops,Malawi,Production,"Chillies and peppers, dry",2018,tonnes,1228
+Crops,Malawi,Production,"Chillies and peppers, dry",2019,tonnes,1083
+Crops,Malawi,Production,"Chillies and peppers, green",2016,tonnes,
+Crops,Malawi,Production,"Chillies and peppers, green",2017,tonnes,294
+Crops,Malawi,Production,"Chillies and peppers, green",2018,tonnes,1228
+Crops,Malawi,Production,"Chillies and peppers, green",2019,tonnes,1687
+Crops,Malawi,Production,"Cow peas, dry",2016,tonnes,29266
+Crops,Malawi,Production,"Cow peas, dry",2017,tonnes,48168
+Crops,Malawi,Production,"Cow peas, dry",2018,tonnes,42456
+Crops,Malawi,Production,"Cow peas, dry",2019,tonnes,41656
+Crops,Malawi,Production,"Fruit, citrus nes",2016,tonnes,2639
+Crops,Malawi,Production,"Fruit, citrus nes",2017,tonnes,2652
+Crops,Malawi,Production,"Fruit, citrus nes",2018,tonnes,2661
+Crops,Malawi,Production,"Fruit, citrus nes",2019,tonnes,2674
+Crops,Malawi,Production,"Fruit, tropical fresh nes",2016,tonnes,16118
+Crops,Malawi,Production,"Fruit, tropical fresh nes",2017,tonnes,17000
+Crops,Malawi,Production,"Fruit, tropical fresh nes",2018,tonnes,17886
+Crops,Malawi,Production,"Fruit, tropical fresh nes",2019,tonnes,18975
+Crops,Malawi,Production,Garlic,2016,tonnes,
+Crops,Malawi,Production,Garlic,2017,tonnes,230
+Crops,Malawi,Production,Garlic,2018,tonnes,521
+Crops,Malawi,Production,Garlic,2019,tonnes,645
+Crops,Malawi,Production,Grapes,2016,tonnes,
+Crops,Malawi,Production,Grapes,2017,tonnes,226
+Crops,Malawi,Production,Grapes,2018,tonnes,240
+Crops,Malawi,Production,Grapes,2019,tonnes,244
+Crops,Malawi,Production,"Groundnuts, with shell",2016,tonnes,275070
+Crops,Malawi,Production,"Groundnuts, with shell",2017,tonnes,386319
+Crops,Malawi,Production,"Groundnuts, with shell",2018,tonnes,344583
+Crops,Malawi,Production,"Groundnuts, with shell",2019,tonnes,350000
+Crops,Malawi,Production,Lemons and limes,2016,tonnes,12368
+Crops,Malawi,Production,Lemons and limes,2017,tonnes,13616
+Crops,Malawi,Production,Lemons and limes,2018,tonnes,15421
+Crops,Malawi,Production,Lemons and limes,2019,tonnes,15184
+Crops,Malawi,Production,Maize,2016,tonnes,2369493
+Crops,Malawi,Production,Maize,2017,tonnes,3464139
+Crops,Malawi,Production,Maize,2018,tonnes,2697959
+Crops,Malawi,Production,Maize,2019,tonnes,3030000
+Crops,Malawi,Production,"Mangoes, mangosteens, guavas",2016,tonnes,1284630
+Crops,Malawi,Production,"Mangoes, mangosteens, guavas",2017,tonnes,1323680
+Crops,Malawi,Production,"Mangoes, mangosteens, guavas",2018,tonnes,1694448
+Crops,Malawi,Production,"Mangoes, mangosteens, guavas",2019,tonnes,2083471
+Crops,Malawi,Production,Millet,2016,tonnes,19510
+Crops,Malawi,Production,Millet,2017,tonnes,35121
+Crops,Malawi,Production,Millet,2018,tonnes,31315
+Crops,Malawi,Production,Millet,2019,tonnes,34479
+Crops,Malawi,Production,"Onions, dry",2016,tonnes,152354
+Crops,Malawi,Production,"Onions, dry",2017,tonnes,171291
+Crops,Malawi,Production,"Onions, dry",2018,tonnes,171829
+Crops,Malawi,Production,"Onions, dry",2019,tonnes,170679
+Crops,Malawi,Production,Oranges,2016,tonnes,73654
+Crops,Malawi,Production,Oranges,2017,tonnes,77943
+Crops,Malawi,Production,Oranges,2018,tonnes,58453
+Crops,Malawi,Production,Oranges,2019,tonnes,66850
+Crops,Malawi,Production,"Peas, dry",2016,tonnes,11643
+Crops,Malawi,Production,"Peas, dry",2017,tonnes,3169
+Crops,Malawi,Production,"Peas, dry",2018,tonnes,3199
+Crops,Malawi,Production,"Peas, dry",2019,tonnes,3496
+Crops,Malawi,Production,"Peas, green",2016,tonnes,1646
+Crops,Malawi,Production,"Peas, green",2017,tonnes,3169
+Crops,Malawi,Production,"Peas, green",2018,tonnes,2054
+Crops,Malawi,Production,"Peas, green",2019,tonnes,2274
+Crops,Malawi,Production,Pineapples,2016,tonnes,203524
+Crops,Malawi,Production,Pineapples,2017,tonnes,293500
+Crops,Malawi,Production,Pineapples,2018,tonnes,319945
+Crops,Malawi,Production,Pineapples,2019,tonnes,300000
+Crops,Malawi,Production,Potatoes,2016,tonnes,1043338
+Crops,Malawi,Production,Potatoes,2017,tonnes,1226603
+Crops,Malawi,Production,Potatoes,2018,tonnes,1125874
+Crops,Malawi,Production,Potatoes,2019,tonnes,1219366
+Crops,Malawi,Production,"Pumpkins, squash and gourds",2017,tonnes,545769
+Crops,Malawi,Production,"Pumpkins, squash and gourds",2018,tonnes,480233
+Crops,Malawi,Production,"Pumpkins, squash and gourds",2019,tonnes,368025
+Crops,Malawi,Production,"Rice, paddy",2016,tonnes,83757
+Crops,Malawi,Production,"Rice, paddy",2017,tonnes,121079
+Crops,Malawi,Production,"Rice, paddy",2018,tonnes,112313
+Crops,Malawi,Production,"Rice, paddy",2019,tonnes,133000
+Crops,Malawi,Production,Seed cotton,2016,tonnes,31439
+Crops,Malawi,Production,Seed cotton,2017,tonnes,29545
+Crops,Malawi,Production,Seed cotton,2018,tonnes,24010
+Crops,Malawi,Production,Seed cotton,2019,tonnes,46070
+Crops,Malawi,Production,Sisal,2016,tonnes,138
+Crops,Malawi,Production,Sisal,2017,tonnes,141
+Crops,Malawi,Production,Sisal,2018,tonnes,144
+Crops,Malawi,Production,Sisal,2019,tonnes,147
+Crops,Malawi,Production,Sorghum,2016,tonnes,58192
+Crops,Malawi,Production,Sorghum,2017,tonnes,90370
+Crops,Malawi,Production,Sorghum,2018,tonnes,82852
+Crops,Malawi,Production,Sorghum,2019,tonnes,137000
+Crops,Malawi,Production,Soybeans,2016,tonnes,132417
+Crops,Malawi,Production,Soybeans,2017,tonnes,208556
+Crops,Malawi,Production,Soybeans,2018,tonnes,175475
+Crops,Malawi,Production,Soybeans,2019,tonnes,170000
+Crops,Malawi,Production,Sugar cane,2016,tonnes,3000000
+Crops,Malawi,Production,Sugar cane,2017,tonnes,3058302
+Crops,Malawi,Production,Sugar cane,2018,tonnes,3126584
+Crops,Malawi,Production,Sugar cane,2019,tonnes,3136918
+Crops,Malawi,Production,Sunflower seed,2016,tonnes,15736
+Crops,Malawi,Production,Sunflower seed,2017,tonnes,21423
+Crops,Malawi,Production,Sunflower seed,2018,tonnes,20312
+Crops,Malawi,Production,Sunflower seed,2019,tonnes,19505
+Crops,Malawi,Production,Sweet potatoes,2016,tonnes,4463710
+Crops,Malawi,Production,Sweet potatoes,2017,tonnes,5472013
+Crops,Malawi,Production,Sweet potatoes,2018,tonnes,5668543
+Crops,Malawi,Production,Sweet potatoes,2019,tonnes,5908989
+Crops,Malawi,Production,Tea,2016,tonnes,48723
+Crops,Malawi,Production,Tea,2017,tonnes,48717
+Crops,Malawi,Production,Tea,2018,tonnes,49128
+Crops,Malawi,Production,Tea,2019,tonnes,49586
+Crops,Malawi,Production,Tomatoes,2016,tonnes,483740
+Crops,Malawi,Production,Tomatoes,2017,tonnes,533606
+Crops,Malawi,Production,Tomatoes,2018,tonnes,583177
+Crops,Malawi,Production,Tomatoes,2019,tonnes,628191
+Crops,Malawi,Production,"Vegetables, fresh nes",2016,tonnes,232202
+Crops,Malawi,Production,"Vegetables, fresh nes",2017,tonnes,238285
+Crops,Malawi,Production,"Vegetables, fresh nes",2018,tonnes,243404
+Crops,Malawi,Production,"Vegetables, fresh nes",2019,tonnes,248522
+Crops,Malawi,Production,"Vegetables, leguminous nes",2016,tonnes,1296
+Crops,Malawi,Production,"Vegetables, leguminous nes",2017,tonnes,1307
+Crops,Malawi,Production,"Vegetables, leguminous nes",2018,tonnes,1319
+Crops,Malawi,Production,"Vegetables, leguminous nes",2019,tonnes,1352
+Crops,Malawi,Production,Watermelons,2016,tonnes,2939
+Crops,Malawi,Production,Watermelons,2017,tonnes,3172
+Crops,Malawi,Production,Watermelons,2018,tonnes,3087
+Crops,Malawi,Production,Watermelons,2019,tonnes,2959
+Crops,Malawi,Production,Wheat,2016,tonnes,797
+Crops,Malawi,Production,Wheat,2017,tonnes,745
+Crops,Malawi,Production,Wheat,2018,tonnes,729
+Crops,Malawi,Production,Wheat,2019,tonnes,1000
+Crops,Mauritius,Production,Avocados,2016,tonnes,
+Crops,Mauritius,Production,Avocados,2017,tonnes,
+Crops,Mauritius,Production,Avocados,2018,tonnes,
+Crops,Mauritius,Production,Avocados,2019,tonnes,
+Crops,Mauritius,Production,Bananas,2016,tonnes,7731
+Crops,Mauritius,Production,Bananas,2017,tonnes,8644
+Crops,Mauritius,Production,Bananas,2018,tonnes,7333
+Crops,Mauritius,Production,Bananas,2019,tonnes,7266
+Crops,Mauritius,Production,"Beans, green",2016,tonnes,1490
+Crops,Mauritius,Production,"Beans, green",2017,tonnes,1792
+Crops,Mauritius,Production,"Beans, green",2018,tonnes,1442
+Crops,Mauritius,Production,"Beans, green",2019,tonnes,1453
+Crops,Mauritius,Production,Cabbages and other brassicas,2016,tonnes,4659
+Crops,Mauritius,Production,Cabbages and other brassicas,2017,tonnes,4779
+Crops,Mauritius,Production,Cabbages and other brassicas,2018,tonnes,3642
+Crops,Mauritius,Production,Cabbages and other brassicas,2019,tonnes,3477
+Crops,Mauritius,Production,Carrots and turnips,2016,tonnes,5135
+Crops,Mauritius,Production,Carrots and turnips,2017,tonnes,4625
+Crops,Mauritius,Production,Carrots and turnips,2018,tonnes,4863
+Crops,Mauritius,Production,Carrots and turnips,2019,tonnes,5260
+Crops,Mauritius,Production,Cassava,2016,tonnes,574
+Crops,Mauritius,Production,Cassava,2017,tonnes,465
+Crops,Mauritius,Production,Cassava,2018,tonnes,681
+Crops,Mauritius,Production,Cassava,2019,tonnes,715
+Crops,Mauritius,Production,Cauliflowers and broccoli,2016,tonnes,2300
+Crops,Mauritius,Production,Cauliflowers and broccoli,2017,tonnes,2060
+Crops,Mauritius,Production,Cauliflowers and broccoli,2018,tonnes,1487
+Crops,Mauritius,Production,Cauliflowers and broccoli,2019,tonnes,824
+Crops,Mauritius,Production,"Chillies and peppers, green",2016,tonnes,1903
+Crops,Mauritius,Production,"Chillies and peppers, green",2017,tonnes,2030
+Crops,Mauritius,Production,"Chillies and peppers, green",2018,tonnes,1395
+Crops,Mauritius,Production,"Chillies and peppers, green",2019,tonnes,1988
+Crops,Mauritius,Production,Fibre crops nes,2016,tonnes,92
+Crops,Mauritius,Production,Fibre crops nes,2017,tonnes,92
+Crops,Mauritius,Production,Fibre crops nes,2018,tonnes,92
+Crops,Mauritius,Production,Fibre crops nes,2019,tonnes,93
+Crops,Mauritius,Production,"Fruit, citrus nes",2016,tonnes,636
+Crops,Mauritius,Production,"Fruit, citrus nes",2017,tonnes,649
+Crops,Mauritius,Production,"Fruit, citrus nes",2018,tonnes,662
+Crops,Mauritius,Production,"Fruit, citrus nes",2019,tonnes,675
+Crops,Mauritius,Production,Garlic,2016,tonnes,120
+Crops,Mauritius,Production,Garlic,2017,tonnes,96
+Crops,Mauritius,Production,Garlic,2018,tonnes,71
+Crops,Mauritius,Production,Garlic,2019,tonnes,48
+Crops,Mauritius,Production,Ginger,2016,tonnes,726
+Crops,Mauritius,Production,Ginger,2017,tonnes,562
+Crops,Mauritius,Production,Ginger,2018,tonnes,368
+Crops,Mauritius,Production,Ginger,2019,tonnes,268
+Crops,Mauritius,Production,"Groundnuts, with shell",2016,tonnes,149
+Crops,Mauritius,Production,"Groundnuts, with shell",2017,tonnes,269
+Crops,Mauritius,Production,"Groundnuts, with shell",2018,tonnes,214
+Crops,Mauritius,Production,"Groundnuts, with shell",2019,tonnes,392
+Crops,Mauritius,Production,"Leeks, other alliaceous vegetables",2016,tonnes,173
+Crops,Mauritius,Production,"Leeks, other alliaceous vegetables",2017,tonnes,133
+Crops,Mauritius,Production,"Leeks, other alliaceous vegetables",2018,tonnes,71
+Crops,Mauritius,Production,"Leeks, other alliaceous vegetables",2019,tonnes,83
+Crops,Mauritius,Production,Maize,2016,tonnes,415
+Crops,Mauritius,Production,Maize,2017,tonnes,442
+Crops,Mauritius,Production,Maize,2018,tonnes,387
+Crops,Mauritius,Production,Maize,2019,tonnes,495
+Crops,Mauritius,Production,"Maize, green",2016,tonnes,415
+Crops,Mauritius,Production,"Maize, green",2017,tonnes,442
+Crops,Mauritius,Production,"Maize, green",2018,tonnes,387
+Crops,Mauritius,Production,"Maize, green",2019,tonnes,495
+Crops,Mauritius,Production,"Onions, dry",2016,tonnes,7550
+Crops,Mauritius,Production,"Onions, dry",2017,tonnes,6631
+Crops,Mauritius,Production,"Onions, dry",2018,tonnes,4511
+Crops,Mauritius,Production,"Onions, dry",2019,tonnes,4642
+Crops,Mauritius,Production,"Peas, green",2016,tonnes,2
+Crops,Mauritius,Production,"Peas, green",2017,tonnes,2
+Crops,Mauritius,Production,"Peas, green",2018,tonnes,1
+Crops,Mauritius,Production,"Peas, green",2019,tonnes,0
+Crops,Mauritius,Production,Pineapples,2016,tonnes,9707
+Crops,Mauritius,Production,Pineapples,2017,tonnes,8760
+Crops,Mauritius,Production,Pineapples,2018,tonnes,10043
+Crops,Mauritius,Production,Pineapples,2019,tonnes,8459
+Crops,Mauritius,Production,Potatoes,2016,tonnes,16326
+Crops,Mauritius,Production,Potatoes,2017,tonnes,14124
+Crops,Mauritius,Production,Potatoes,2018,tonnes,17033
+Crops,Mauritius,Production,Potatoes,2019,tonnes,14822
+Crops,Mauritius,Production,"Pumpkins, squash and gourds",2016,tonnes,18654
+Crops,Mauritius,Production,"Pumpkins, squash and gourds",2017,tonnes,20831
+Crops,Mauritius,Production,"Pumpkins, squash and gourds",2018,tonnes,17414
+Crops,Mauritius,Production,"Pumpkins, squash and gourds",2019,tonnes,22835
+Crops,Mauritius,Production,"Rice, paddy",2016,tonnes,352
+Crops,Mauritius,Production,"Rice, paddy",2017,tonnes,160
+Crops,Mauritius,Production,"Rice, paddy",2018,tonnes,19
+Crops,Mauritius,Production,"Rice, paddy",2019,tonnes,21
+Crops,Mauritius,Production,Sugar cane,2016,tonnes,3798448
+Crops,Mauritius,Production,Sugar cane,2017,tonnes,3713331
+Crops,Mauritius,Production,Sugar cane,2018,tonnes,3154515
+Crops,Mauritius,Production,Sugar cane,2019,tonnes,3405250
+Crops,Mauritius,Production,Sweet potatoes,2016,tonnes,446
+Crops,Mauritius,Production,Sweet potatoes,2017,tonnes,458
+Crops,Mauritius,Production,Sweet potatoes,2018,tonnes,583
+Crops,Mauritius,Production,Sweet potatoes,2019,tonnes,414
+Crops,Mauritius,Production,Tea,2016,tonnes,1353
+Crops,Mauritius,Production,Tea,2017,tonnes,1379
+Crops,Mauritius,Production,Tea,2018,tonnes,1470
+Crops,Mauritius,Production,Tea,2019,tonnes,1583
+Crops,Mauritius,Production,Tomatoes,2016,tonnes,10136
+Crops,Mauritius,Production,Tomatoes,2017,tonnes,10651
+Crops,Mauritius,Production,Tomatoes,2018,tonnes,9190
+Crops,Mauritius,Production,Tomatoes,2019,tonnes,8684
+Crops,Mauritius,Production,"Vegetables, fresh nes",2016,tonnes,1253
+Crops,Mauritius,Production,"Vegetables, fresh nes",2017,tonnes,5752
+Crops,Mauritius,Production,"Vegetables, fresh nes",2018,tonnes,3064
+Crops,Mauritius,Production,"Vegetables, fresh nes",2019,tonnes,2996
+Crops,Mozambique,Production,Bananas,2016,tonnes,517500
+Crops,Mozambique,Production,Bananas,2017,tonnes,643700
+Crops,Mozambique,Production,Bananas,2018,tonnes,706030
+Crops,Mozambique,Production,Bananas,2019,tonnes,724966
+Crops,Mozambique,Production,"Beans, dry",2016,tonnes,50000
+Crops,Mozambique,Production,"Beans, dry",2017,tonnes,55000
+Crops,Mozambique,Production,"Beans, dry",2018,tonnes,68427
+Crops,Mozambique,Production,"Beans, dry",2019,tonnes,65635
+Crops,Mozambique,Production,"Cashew nuts, with shell",2016,tonnes,104179
+Crops,Mozambique,Production,"Cashew nuts, with shell",2017,tonnes,139088
+Crops,Mozambique,Production,"Cashew nuts, with shell",2018,tonnes,115049
+Crops,Mozambique,Production,"Cashew nuts, with shell",2019,tonnes,107147
+Crops,Mozambique,Production,Cassava,2016,tonnes,3598000
+Crops,Mozambique,Production,Cassava,2017,tonnes,3867000
+Crops,Mozambique,Production,Cassava,2018,tonnes,4139120
+Crops,Mozambique,Production,Cassava,2019,tonnes,3987446
+Crops,Mozambique,Production,Castor oil seed,2016,tonnes,77616
+Crops,Mozambique,Production,Castor oil seed,2017,tonnes,80107
+Crops,Mozambique,Production,Castor oil seed,2018,tonnes,82598
+Crops,Mozambique,Production,Castor oil seed,2019,tonnes,85089
+Crops,Mozambique,Production,"Cow peas, dry",2016,tonnes,73694
+Crops,Mozambique,Production,"Cow peas, dry",2017,tonnes,88189
+Crops,Mozambique,Production,"Cow peas, dry",2018,tonnes,89105
+Crops,Mozambique,Production,"Cow peas, dry",2019,tonnes,90461
+Crops,Mozambique,Production,"Fruit, tropical fresh nes",2016,tonnes,22382
+Crops,Mozambique,Production,"Fruit, tropical fresh nes",2017,tonnes,22645
+Crops,Mozambique,Production,"Fruit, tropical fresh nes",2018,tonnes,22915
+Crops,Mozambique,Production,"Fruit, tropical fresh nes",2019,tonnes,23182
+Crops,Mozambique,Production,"Groundnuts, with shell",2016,tonnes,121000
+Crops,Mozambique,Production,"Groundnuts, with shell",2017,tonnes,125000
+Crops,Mozambique,Production,"Groundnuts, with shell",2018,tonnes,90000
+Crops,Mozambique,Production,"Groundnuts, with shell",2019,tonnes,80000
+Crops,Mozambique,Production,Lemons and limes,2016,tonnes,3354
+Crops,Mozambique,Production,Lemons and limes,2017,tonnes,3451
+Crops,Mozambique,Production,Lemons and limes,2018,tonnes,3468
+Crops,Mozambique,Production,Lemons and limes,2019,tonnes,3485
+Crops,Mozambique,Production,Maize,2016,tonnes,1217000
+Crops,Mozambique,Production,Maize,2017,tonnes,1224000
+Crops,Mozambique,Production,Maize,2018,tonnes,2496000
+Crops,Mozambique,Production,Maize,2019,tonnes,2085000
+Crops,Mozambique,Production,"Mangoes, mangosteens, guavas",2016,tonnes,29266
+Crops,Mozambique,Production,"Mangoes, mangosteens, guavas",2017,tonnes,29404
+Crops,Mozambique,Production,"Mangoes, mangosteens, guavas",2018,tonnes,29543
+Crops,Mozambique,Production,"Mangoes, mangosteens, guavas",2019,tonnes,29681
+Crops,Mozambique,Production,Millet,2016,tonnes,21000
+Crops,Mozambique,Production,Millet,2017,tonnes,21000
+Crops,Mozambique,Production,Millet,2018,tonnes,19869
+Crops,Mozambique,Production,Millet,2019,tonnes,12832
+Crops,Mozambique,Production,"Onions, dry",2016,tonnes,162000
+Crops,Mozambique,Production,"Onions, dry",2017,tonnes,195300
+Crops,Mozambique,Production,"Onions, dry",2018,tonnes,228007
+Crops,Mozambique,Production,"Onions, dry",2019,tonnes,233298
+Crops,Mozambique,Production,Oranges,2016,tonnes,65000
+Crops,Mozambique,Production,Oranges,2017,tonnes,67600
+Crops,Mozambique,Production,Oranges,2018,tonnes,66000
+Crops,Mozambique,Production,Oranges,2019,tonnes,66505
+Crops,Mozambique,Production,Pineapples,2016,tonnes,60369
+Crops,Mozambique,Production,Pineapples,2017,tonnes,62102
+Crops,Mozambique,Production,Pineapples,2018,tonnes,63836
+Crops,Mozambique,Production,Pineapples,2019,tonnes,65569
+Crops,Mozambique,Production,Potatoes,2016,tonnes,246500
+Crops,Mozambique,Production,Potatoes,2017,tonnes,294600
+Crops,Mozambique,Production,Potatoes,2018,tonnes,320595
+Crops,Mozambique,Production,Potatoes,2019,tonnes,297812
+Crops,Mozambique,Production,"Pumpkins, squash and gourds",2016,tonnes,1041
+Crops,Mozambique,Production,"Pumpkins, squash and gourds",2017,tonnes,1056
+Crops,Mozambique,Production,"Pumpkins, squash and gourds",2018,tonnes,1064
+Crops,Mozambique,Production,"Pumpkins, squash and gourds",2019,tonnes,1075
+Crops,Mozambique,Production,"Rice, paddy",2016,tonnes,133000
+Crops,Mozambique,Production,"Rice, paddy",2017,tonnes,138000
+Crops,Mozambique,Production,"Rice, paddy",2018,tonnes,413000
+Crops,Mozambique,Production,"Rice, paddy",2019,tonnes,341000
+Crops,Mozambique,Production,Seed cotton,2016,tonnes,43661
+Crops,Mozambique,Production,Seed cotton,2017,tonnes,52146
+Crops,Mozambique,Production,Seed cotton,2018,tonnes,63137
+Crops,Mozambique,Production,Seed cotton,2019,tonnes,52993
+Crops,Mozambique,Production,Sisal,2016,tonnes,643
+Crops,Mozambique,Production,Sisal,2017,tonnes,636
+Crops,Mozambique,Production,Sisal,2018,tonnes,630
+Crops,Mozambique,Production,Sisal,2019,tonnes,623
+Crops,Mozambique,Production,Sorghum,2016,tonnes,115000
+Crops,Mozambique,Production,Sorghum,2017,tonnes,110000
+Crops,Mozambique,Production,Sorghum,2018,tonnes,295000
+Crops,Mozambique,Production,Sorghum,2019,tonnes,325000
+Crops,Mozambique,Production,Sugar cane,2016,tonnes,2761505
+Crops,Mozambique,Production,Sugar cane,2017,tonnes,2900397
+Crops,Mozambique,Production,Sugar cane,2018,tonnes,3650000
+Crops,Mozambique,Production,Sugar cane,2019,tonnes,4106873
+Crops,Mozambique,Production,Sunflower seed,2016,tonnes,9000
+Crops,Mozambique,Production,Sunflower seed,2017,tonnes,11250
+Crops,Mozambique,Production,Sunflower seed,2018,tonnes,12000
+Crops,Mozambique,Production,Sunflower seed,2019,tonnes,14000
+Crops,Mozambique,Production,Sweet potatoes,2016,tonnes,400000
+Crops,Mozambique,Production,Sweet potatoes,2017,tonnes,400000
+Crops,Mozambique,Production,Sweet potatoes,2018,tonnes,400000
+Crops,Mozambique,Production,Sweet potatoes,2019,tonnes,451204
+Crops,Mozambique,Production,Tea,2016,tonnes,32000
+Crops,Mozambique,Production,Tea,2017,tonnes,32000
+Crops,Mozambique,Production,Tea,2018,tonnes,32619
+Crops,Mozambique,Production,Tea,2019,tonnes,34205
+Crops,Mozambique,Production,Tomatoes,2016,tonnes,374000
+Crops,Mozambique,Production,Tomatoes,2017,tonnes,550100
+Crops,Mozambique,Production,Tomatoes,2018,tonnes,625603
+Crops,Mozambique,Production,Tomatoes,2019,tonnes,708467
+Crops,Mozambique,Production,"Vegetables, fresh nes",2016,tonnes,219189
+Crops,Mozambique,Production,"Vegetables, fresh nes",2017,tonnes,224009
+Crops,Mozambique,Production,"Vegetables, fresh nes",2018,tonnes,228829
+Crops,Mozambique,Production,"Vegetables, fresh nes",2019,tonnes,233649
+Crops,Mozambique,Production,Wheat,2016,tonnes,17088
+Crops,Mozambique,Production,Wheat,2017,tonnes,17100
+Crops,Mozambique,Production,Wheat,2018,tonnes,17060
+Crops,Mozambique,Production,Wheat,2019,tonnes,18180
+Crops,Rwanda,Production,Avocados,2016,tonnes,9296
+Crops,Rwanda,Production,Avocados,2017,tonnes,6912
+Crops,Rwanda,Production,Avocados,2018,tonnes,8597
+Crops,Rwanda,Production,Avocados,2019,tonnes,6601
+Crops,Rwanda,Production,Bananas,2016,tonnes,1127643
+Crops,Rwanda,Production,Bananas,2017,tonnes,1739007
+Crops,Rwanda,Production,Bananas,2018,tonnes,1769697
+Crops,Rwanda,Production,Bananas,2019,tonnes,1850633
+Crops,Rwanda,Production,Barley,2016,tonnes,
+Crops,Rwanda,Production,Barley,2017,tonnes,
+Crops,Rwanda,Production,Barley,2018,tonnes,
+Crops,Rwanda,Production,Barley,2019,tonnes,
+Crops,Rwanda,Production,"Beans, dry",2016,tonnes,437673
+Crops,Rwanda,Production,"Beans, dry",2017,tonnes,455822
+Crops,Rwanda,Production,"Beans, dry",2018,tonnes,454174
+Crops,Rwanda,Production,"Beans, dry",2019,tonnes,484251
+Crops,Rwanda,Production,"Beans, green",2016,tonnes,7664
+Crops,Rwanda,Production,"Beans, green",2017,tonnes,8024
+Crops,Rwanda,Production,"Beans, green",2018,tonnes,8383
+Crops,Rwanda,Production,"Beans, green",2019,tonnes,8743
+Crops,Rwanda,Production,Cabbages and other brassicas,2016,tonnes,41137
+Crops,Rwanda,Production,Cabbages and other brassicas,2017,tonnes,94924
+Crops,Rwanda,Production,Cabbages and other brassicas,2018,tonnes,94994
+Crops,Rwanda,Production,Cabbages and other brassicas,2019,tonnes,58480
+Crops,Rwanda,Production,Carrots and turnips,2016,tonnes,10939
+Crops,Rwanda,Production,Carrots and turnips,2017,tonnes,13715
+Crops,Rwanda,Production,Carrots and turnips,2018,tonnes,15976
+Crops,Rwanda,Production,Carrots and turnips,2019,tonnes,31704
+Crops,Rwanda,Production,Cassava,2016,tonnes,930220
+Crops,Rwanda,Production,Cassava,2017,tonnes,1041986
+Crops,Rwanda,Production,Cassava,2018,tonnes,1041843
+Crops,Rwanda,Production,Cassava,2019,tonnes,1181825
+Crops,Rwanda,Production,"Chillies and peppers, green",2016,tonnes,4460
+Crops,Rwanda,Production,"Chillies and peppers, green",2017,tonnes,7000
+Crops,Rwanda,Production,"Chillies and peppers, green",2018,tonnes,7000
+Crops,Rwanda,Production,"Chillies and peppers, green",2019,tonnes,7000
+Crops,Rwanda,Production,"Fruit, tropical fresh nes",2016,tonnes,26102
+Crops,Rwanda,Production,"Fruit, tropical fresh nes",2017,tonnes,27047
+Crops,Rwanda,Production,"Fruit, tropical fresh nes",2018,tonnes,27992
+Crops,Rwanda,Production,"Fruit, tropical fresh nes",2019,tonnes,28937
+Crops,Rwanda,Production,"Groundnuts, with shell",2016,tonnes,11259
+Crops,Rwanda,Production,"Groundnuts, with shell",2017,tonnes,20703
+Crops,Rwanda,Production,"Groundnuts, with shell",2018,tonnes,20678
+Crops,Rwanda,Production,"Groundnuts, with shell",2019,tonnes,19561
+Crops,Rwanda,Production,"Leeks, other alliaceous vegetables",2016,tonnes,2685
+Crops,Rwanda,Production,"Leeks, other alliaceous vegetables",2017,tonnes,2788
+Crops,Rwanda,Production,"Leeks, other alliaceous vegetables",2018,tonnes,2891
+Crops,Rwanda,Production,"Leeks, other alliaceous vegetables",2019,tonnes,2995
+Crops,Rwanda,Production,Lemons and limes,2016,tonnes,6917
+Crops,Rwanda,Production,Lemons and limes,2017,tonnes,5000
+Crops,Rwanda,Production,Lemons and limes,2018,tonnes,7154
+Crops,Rwanda,Production,Lemons and limes,2019,tonnes,7581
+Crops,Rwanda,Production,Maize,2016,tonnes,374267
+Crops,Rwanda,Production,Maize,2017,tonnes,358417
+Crops,Rwanda,Production,Maize,2018,tonnes,410280
+Crops,Rwanda,Production,Maize,2019,tonnes,421218
+Crops,Rwanda,Production,"Mangoes, mangosteens, guavas",2016,tonnes,10924
+Crops,Rwanda,Production,"Mangoes, mangosteens, guavas",2017,tonnes,8965
+Crops,Rwanda,Production,"Mangoes, mangosteens, guavas",2018,tonnes,6758
+Crops,Rwanda,Production,"Mangoes, mangosteens, guavas",2019,tonnes,3748
+Crops,Rwanda,Production,Millet,2016,tonnes,5021
+Crops,Rwanda,Production,Millet,2017,tonnes,5083
+Crops,Rwanda,Production,Millet,2018,tonnes,5140
+Crops,Rwanda,Production,Millet,2019,tonnes,5195
+Crops,Rwanda,Production,"Onions, dry",2016,tonnes,14522
+Crops,Rwanda,Production,"Onions, dry",2017,tonnes,12479
+Crops,Rwanda,Production,"Onions, dry",2018,tonnes,14421
+Crops,Rwanda,Production,"Onions, dry",2019,tonnes,40742
+Crops,Rwanda,Production,Oranges,2016,tonnes,3524
+Crops,Rwanda,Production,Oranges,2017,tonnes,2800
+Crops,Rwanda,Production,Oranges,2018,tonnes,3494
+Crops,Rwanda,Production,Oranges,2019,tonnes,3856
+Crops,Rwanda,Production,"Peas, dry",2016,tonnes,16814
+Crops,Rwanda,Production,"Peas, dry",2017,tonnes,12419
+Crops,Rwanda,Production,"Peas, dry",2018,tonnes,12423
+Crops,Rwanda,Production,"Peas, dry",2019,tonnes,15400
+Crops,Rwanda,Production,Pineapples,2016,tonnes,11167
+Crops,Rwanda,Production,Pineapples,2017,tonnes,19236
+Crops,Rwanda,Production,Pineapples,2018,tonnes,17788
+Crops,Rwanda,Production,Pineapples,2019,tonnes,36372
+Crops,Rwanda,Production,Potatoes,2016,tonnes,751284
+Crops,Rwanda,Production,Potatoes,2017,tonnes,846184
+Crops,Rwanda,Production,Potatoes,2018,tonnes,847302
+Crops,Rwanda,Production,Potatoes,2019,tonnes,973408
+Crops,Rwanda,Production,"Pumpkins, squash and gourds",2016,tonnes,251948
+Crops,Rwanda,Production,"Pumpkins, squash and gourds",2017,tonnes,253770
+Crops,Rwanda,Production,"Pumpkins, squash and gourds",2018,tonnes,255375
+Crops,Rwanda,Production,"Pumpkins, squash and gourds",2019,tonnes,256888
+Crops,Rwanda,Production,"Pyrethrum, dried",2016,tonnes,1148
+Crops,Rwanda,Production,"Pyrethrum, dried",2017,tonnes,5083
+Crops,Rwanda,Production,"Pyrethrum, dried",2018,tonnes,1688
+Crops,Rwanda,Production,"Pyrethrum, dried",2019,tonnes,2993
+Crops,Rwanda,Production,"Rice, paddy",2016,tonnes,110544
+Crops,Rwanda,Production,"Rice, paddy",2017,tonnes,108958
+Crops,Rwanda,Production,"Rice, paddy",2018,tonnes,119932
+Crops,Rwanda,Production,"Rice, paddy",2019,tonnes,131577
+Crops,Rwanda,Production,Seed cotton,2016,tonnes,
+Crops,Rwanda,Production,Seed cotton,2017,tonnes,
+Crops,Rwanda,Production,Seed cotton,2018,tonnes,
+Crops,Rwanda,Production,Seed cotton,2019,tonnes,
+Crops,Rwanda,Production,Sorghum,2016,tonnes,163832
+Crops,Rwanda,Production,Sorghum,2017,tonnes,151447
+Crops,Rwanda,Production,Sorghum,2018,tonnes,159972
+Crops,Rwanda,Production,Sorghum,2019,tonnes,159626
+Crops,Rwanda,Production,Soybeans,2016,tonnes,21942
+Crops,Rwanda,Production,Soybeans,2017,tonnes,23934
+Crops,Rwanda,Production,Soybeans,2018,tonnes,23804
+Crops,Rwanda,Production,Soybeans,2019,tonnes,24526
+Crops,Rwanda,Production,Sugar cane,2016,tonnes,93823
+Crops,Rwanda,Production,Sugar cane,2017,tonnes,107189
+Crops,Rwanda,Production,Sugar cane,2018,tonnes,116964
+Crops,Rwanda,Production,Sugar cane,2019,tonnes,114610
+Crops,Rwanda,Production,Sweet potatoes,2016,tonnes,919123
+Crops,Rwanda,Production,Sweet potatoes,2017,tonnes,1078973
+Crops,Rwanda,Production,Sweet potatoes,2018,tonnes,1082364
+Crops,Rwanda,Production,Sweet potatoes,2019,tonnes,1247584
+Crops,Rwanda,Production,Tea,2016,tonnes,25628
+Crops,Rwanda,Production,Tea,2017,tonnes,27887
+Crops,Rwanda,Production,Tea,2018,tonnes,31068
+Crops,Rwanda,Production,Tea,2019,tonnes,31537
+Crops,Rwanda,Production,Tomatoes,2016,tonnes,118774
+Crops,Rwanda,Production,Tomatoes,2017,tonnes,97426
+Crops,Rwanda,Production,Tomatoes,2018,tonnes,107703
+Crops,Rwanda,Production,Tomatoes,2019,tonnes,105758
+Crops,Rwanda,Production,"Vegetables, fresh nes",2016,tonnes,70881
+Crops,Rwanda,Production,"Vegetables, fresh nes",2017,tonnes,71642
+Crops,Rwanda,Production,"Vegetables, fresh nes",2018,tonnes,72403
+Crops,Rwanda,Production,"Vegetables, fresh nes",2019,tonnes,73163
+Crops,Rwanda,Production,Wheat,2016,tonnes,9923
+Crops,Rwanda,Production,Wheat,2017,tonnes,10926
+Crops,Rwanda,Production,Wheat,2018,tonnes,10875
+Crops,Rwanda,Production,Wheat,2019,tonnes,15686
+Crops,Rwanda,Production,Yams,2016,tonnes,57815
+Crops,Rwanda,Production,Yams,2017,tonnes,50000
+Crops,Rwanda,Production,Yams,2018,tonnes,53721
+Crops,Rwanda,Production,Yams,2019,tonnes,62605
+Crops,Seychelles,Production,Avocados,2016,tonnes,13
+Crops,Seychelles,Production,Avocados,2017,tonnes,13
+Crops,Seychelles,Production,Avocados,2018,tonnes,13
+Crops,Seychelles,Production,Avocados,2019,tonnes,13
+Crops,Seychelles,Production,Bananas,2016,tonnes,1975
+Crops,Seychelles,Production,Bananas,2017,tonnes,1979
+Crops,Seychelles,Production,Bananas,2018,tonnes,1984
+Crops,Seychelles,Production,Bananas,2019,tonnes,1988
+Crops,Seychelles,Production,Cassava,2016,tonnes,229
+Crops,Seychelles,Production,Cassava,2017,tonnes,231
+Crops,Seychelles,Production,Cassava,2018,tonnes,233
+Crops,Seychelles,Production,Cassava,2019,tonnes,236
+Crops,Seychelles,Production,"Fruit, tropical fresh nes",2016,tonnes,278
+Crops,Seychelles,Production,"Fruit, tropical fresh nes",2017,tonnes,284
+Crops,Seychelles,Production,"Fruit, tropical fresh nes",2018,tonnes,290
+Crops,Seychelles,Production,"Fruit, tropical fresh nes",2019,tonnes,296
+Crops,Seychelles,Production,Lemons and limes,2016,tonnes,55
+Crops,Seychelles,Production,Lemons and limes,2017,tonnes,56
+Crops,Seychelles,Production,Lemons and limes,2018,tonnes,58
+Crops,Seychelles,Production,Lemons and limes,2019,tonnes,59
+Crops,Seychelles,Production,"Mangoes, mangosteens, guavas",2016,tonnes,79
+Crops,Seychelles,Production,"Mangoes, mangosteens, guavas",2017,tonnes,83
+Crops,Seychelles,Production,"Mangoes, mangosteens, guavas",2018,tonnes,88
+Crops,Seychelles,Production,"Mangoes, mangosteens, guavas",2019,tonnes,92
+Crops,Seychelles,Production,Oranges,2016,tonnes,44
+Crops,Seychelles,Production,Oranges,2017,tonnes,45
+Crops,Seychelles,Production,Oranges,2018,tonnes,46
+Crops,Seychelles,Production,Oranges,2019,tonnes,47
+Crops,Seychelles,Production,Pineapples,2016,tonnes,22
+Crops,Seychelles,Production,Pineapples,2017,tonnes,21
+Crops,Seychelles,Production,Pineapples,2018,tonnes,20
+Crops,Seychelles,Production,Pineapples,2019,tonnes,20
+Crops,Seychelles,Production,Tea,2016,tonnes,17
+Crops,Seychelles,Production,Tea,2017,tonnes,13
+Crops,Seychelles,Production,Tea,2018,tonnes,10
+Crops,Seychelles,Production,Tea,2019,tonnes,10
+Crops,Seychelles,Production,Tomatoes,2016,tonnes,462
+Crops,Seychelles,Production,Tomatoes,2017,tonnes,478
+Crops,Seychelles,Production,Tomatoes,2018,tonnes,494
+Crops,Seychelles,Production,Tomatoes,2019,tonnes,510
+Crops,Seychelles,Production,"Vegetables, fresh nes",2016,tonnes,2747
+Crops,Seychelles,Production,"Vegetables, fresh nes",2017,tonnes,2831
+Crops,Seychelles,Production,"Vegetables, fresh nes",2018,tonnes,2916
+Crops,Seychelles,Production,"Vegetables, fresh nes",2019,tonnes,3001
+Crops,Somalia,Production,Bananas,2016,tonnes,21106
+Crops,Somalia,Production,Bananas,2017,tonnes,20152
+Crops,Somalia,Production,Bananas,2018,tonnes,19198
+Crops,Somalia,Production,Bananas,2019,tonnes,18243
+Crops,Somalia,Production,"Beans, dry",2016,tonnes,27230
+Crops,Somalia,Production,"Beans, dry",2017,tonnes,27893
+Crops,Somalia,Production,"Beans, dry",2018,tonnes,28555
+Crops,Somalia,Production,"Beans, dry",2019,tonnes,29218
+Crops,Somalia,Production,Cassava,2016,tonnes,92309
+Crops,Somalia,Production,Cassava,2017,tonnes,92778
+Crops,Somalia,Production,Cassava,2018,tonnes,93248
+Crops,Somalia,Production,Cassava,2019,tonnes,93717
+Crops,Somalia,Production,"Groundnuts, with shell",2016,tonnes,8165
+Crops,Somalia,Production,"Groundnuts, with shell",2017,tonnes,8319
+Crops,Somalia,Production,"Groundnuts, with shell",2018,tonnes,8474
+Crops,Somalia,Production,"Groundnuts, with shell",2019,tonnes,8628
+Crops,Somalia,Production,Lemons and limes,2016,tonnes,8259
+Crops,Somalia,Production,Lemons and limes,2017,tonnes,8304
+Crops,Somalia,Production,Lemons and limes,2018,tonnes,8349
+Crops,Somalia,Production,Lemons and limes,2019,tonnes,8393
+Crops,Somalia,Production,Maize,2016,tonnes,60000
+Crops,Somalia,Production,Maize,2017,tonnes,77000
+Crops,Somalia,Production,Maize,2018,tonnes,102000
+Crops,Somalia,Production,Maize,2019,tonnes,57000
+Crops,Somalia,Production,"Mangoes, mangosteens, guavas",2016,tonnes,1200
+Crops,Somalia,Production,"Mangoes, mangosteens, guavas",2017,tonnes,1200
+Crops,Somalia,Production,"Mangoes, mangosteens, guavas",2018,tonnes,1200
+Crops,Somalia,Production,"Mangoes, mangosteens, guavas",2019,tonnes,1200
+Crops,Somalia,Production,"Onions, dry",2016,tonnes,5938
+Crops,Somalia,Production,"Onions, dry",2017,tonnes,5860
+Crops,Somalia,Production,"Onions, dry",2018,tonnes,5781
+Crops,Somalia,Production,"Onions, dry",2019,tonnes,5703
+Crops,Somalia,Production,Oranges,2016,tonnes,10622
+Crops,Somalia,Production,Oranges,2017,tonnes,10767
+Crops,Somalia,Production,Oranges,2018,tonnes,10913
+Crops,Somalia,Production,Oranges,2019,tonnes,11058
+Crops,Somalia,Production,"Rice, paddy",2016,tonnes,1375
+Crops,Somalia,Production,"Rice, paddy",2017,tonnes,1532
+Crops,Somalia,Production,"Rice, paddy",2018,tonnes,1343
+Crops,Somalia,Production,"Rice, paddy",2019,tonnes,1146
+Crops,Somalia,Production,Seed cotton,2016,tonnes,7123
+Crops,Somalia,Production,Seed cotton,2017,tonnes,7075
+Crops,Somalia,Production,Seed cotton,2018,tonnes,7104
+Crops,Somalia,Production,Seed cotton,2019,tonnes,7133
+Crops,Somalia,Production,Sorghum,2016,tonnes,80000
+Crops,Somalia,Production,Sorghum,2017,tonnes,95000
+Crops,Somalia,Production,Sorghum,2018,tonnes,130000
+Crops,Somalia,Production,Sorghum,2019,tonnes,125000
+Crops,Somalia,Production,Sugar cane,2016,tonnes,220000
+Crops,Somalia,Production,Sugar cane,2017,tonnes,220000
+Crops,Somalia,Production,Sugar cane,2018,tonnes,230000
+Crops,Somalia,Production,Sugar cane,2019,tonnes,226507
+Crops,Somalia,Production,Sweet potatoes,2016,tonnes,8363
+Crops,Somalia,Production,Sweet potatoes,2017,tonnes,8451
+Crops,Somalia,Production,Sweet potatoes,2018,tonnes,8538
+Crops,Somalia,Production,Sweet potatoes,2019,tonnes,8626
+Crops,Somalia,Production,Tomatoes,2016,tonnes,22828
+Crops,Somalia,Production,Tomatoes,2017,tonnes,23400
+Crops,Somalia,Production,Tomatoes,2018,tonnes,23973
+Crops,Somalia,Production,Tomatoes,2019,tonnes,24545
+Crops,Somalia,Production,"Vegetables, fresh nes",2016,tonnes,76158
+Crops,Somalia,Production,"Vegetables, fresh nes",2017,tonnes,77732
+Crops,Somalia,Production,"Vegetables, fresh nes",2018,tonnes,79306
+Crops,Somalia,Production,"Vegetables, fresh nes",2019,tonnes,80880
+Crops,Somalia,Production,Watermelons,2016,tonnes,6862
+Crops,Somalia,Production,Watermelons,2017,tonnes,6824
+Crops,Somalia,Production,Watermelons,2018,tonnes,6780
+Crops,Somalia,Production,Watermelons,2019,tonnes,6734
+Crops,Somalia,Production,Wheat,2016,tonnes,1028
+Crops,Somalia,Production,Wheat,2017,tonnes,1032
+Crops,Somalia,Production,Wheat,2018,tonnes,1036
+Crops,Somalia,Production,Wheat,2019,tonnes,1039
+Crops,South Sudan,Production,Bananas,2016,tonnes,
+Crops,South Sudan,Production,Bananas,2017,tonnes,
+Crops,South Sudan,Production,Bananas,2018,tonnes,
+Crops,South Sudan,Production,Bananas,2019,tonnes,
+Crops,South Sudan,Production,"Beans, dry",2016,tonnes,2511
+Crops,South Sudan,Production,"Beans, dry",2017,tonnes,1515
+Crops,South Sudan,Production,"Beans, dry",2018,tonnes,607
+Crops,South Sudan,Production,"Beans, dry",2019,tonnes,123
+Crops,South Sudan,Production,"Beans, green",2016,tonnes,1146
+Crops,South Sudan,Production,"Beans, green",2017,tonnes,1107
+Crops,South Sudan,Production,"Beans, green",2018,tonnes,1171
+Crops,South Sudan,Production,"Beans, green",2019,tonnes,1235
+Crops,South Sudan,Production,Cabbages and other brassicas,2016,tonnes,
+Crops,South Sudan,Production,Cabbages and other brassicas,2017,tonnes,
+Crops,South Sudan,Production,Cabbages and other brassicas,2018,tonnes,
+Crops,South Sudan,Production,Cabbages and other brassicas,2019,tonnes,
+Crops,South Sudan,Production,Carrots and turnips,2016,tonnes,
+Crops,South Sudan,Production,Carrots and turnips,2017,tonnes,
+Crops,South Sudan,Production,Carrots and turnips,2018,tonnes,
+Crops,South Sudan,Production,Carrots and turnips,2019,tonnes,
+Crops,South Sudan,Production,Cassava,2016,tonnes,528010
+Crops,South Sudan,Production,Cassava,2017,tonnes,528010
+Crops,South Sudan,Production,Cassava,2018,tonnes,544510
+Crops,South Sudan,Production,Cassava,2019,tonnes,572531
+Crops,South Sudan,Production,Castor oil seed,2016,tonnes,
+Crops,South Sudan,Production,Castor oil seed,2017,tonnes,
+Crops,South Sudan,Production,Castor oil seed,2018,tonnes,
+Crops,South Sudan,Production,Castor oil seed,2019,tonnes,
+Crops,South Sudan,Production,Cauliflowers and broccoli,2016,tonnes,
+Crops,South Sudan,Production,Cauliflowers and broccoli,2017,tonnes,
+Crops,South Sudan,Production,Cauliflowers and broccoli,2018,tonnes,
+Crops,South Sudan,Production,Cauliflowers and broccoli,2019,tonnes,
+Crops,South Sudan,Production,Chick peas,2016,tonnes,
+Crops,South Sudan,Production,Chick peas,2017,tonnes,
+Crops,South Sudan,Production,Chick peas,2018,tonnes,
+Crops,South Sudan,Production,Chick peas,2019,tonnes,
+Crops,South Sudan,Production,"Chillies and peppers, dry",2016,tonnes,8024
+Crops,South Sudan,Production,"Chillies and peppers, dry",2017,tonnes,8480
+Crops,South Sudan,Production,"Chillies and peppers, dry",2018,tonnes,9143
+Crops,South Sudan,Production,"Chillies and peppers, dry",2019,tonnes,9805
+Crops,South Sudan,Production,"Chillies and peppers, green",2016,tonnes,
+Crops,South Sudan,Production,"Chillies and peppers, green",2017,tonnes,
+Crops,South Sudan,Production,"Chillies and peppers, green",2018,tonnes,
+Crops,South Sudan,Production,"Chillies and peppers, green",2019,tonnes,
+Crops,South Sudan,Production,"Cow peas, dry",2016,tonnes,
+Crops,South Sudan,Production,"Cow peas, dry",2017,tonnes,
+Crops,South Sudan,Production,"Cow peas, dry",2018,tonnes,
+Crops,South Sudan,Production,"Cow peas, dry",2019,tonnes,
+Crops,South Sudan,Production,"Fruit, tropical fresh nes",2016,tonnes,54805
+Crops,South Sudan,Production,"Fruit, tropical fresh nes",2017,tonnes,57296
+Crops,South Sudan,Production,"Fruit, tropical fresh nes",2018,tonnes,61495
+Crops,South Sudan,Production,"Fruit, tropical fresh nes",2019,tonnes,65695
+Crops,South Sudan,Production,Garlic,2016,tonnes,
+Crops,South Sudan,Production,Garlic,2017,tonnes,
+Crops,South Sudan,Production,Garlic,2018,tonnes,
+Crops,South Sudan,Production,Garlic,2019,tonnes,
+Crops,South Sudan,Production,"Groundnuts, with shell",2016,tonnes,71100
+Crops,South Sudan,Production,"Groundnuts, with shell",2017,tonnes,66256
+Crops,South Sudan,Production,"Groundnuts, with shell",2018,tonnes,68678
+Crops,South Sudan,Production,"Groundnuts, with shell",2019,tonnes,70052
+Crops,South Sudan,Production,Lemons and limes,2016,tonnes,
+Crops,South Sudan,Production,Lemons and limes,2017,tonnes,
+Crops,South Sudan,Production,Lemons and limes,2018,tonnes,
+Crops,South Sudan,Production,Lemons and limes,2019,tonnes,
+Crops,South Sudan,Production,Maize,2016,tonnes,107000
+Crops,South Sudan,Production,Maize,2017,tonnes,92000
+Crops,South Sudan,Production,Maize,2018,tonnes,90000
+Crops,South Sudan,Production,Maize,2019,tonnes,103000
+Crops,South Sudan,Production,"Mangoes, mangosteens, guavas",2016,tonnes,
+Crops,South Sudan,Production,"Mangoes, mangosteens, guavas",2017,tonnes,
+Crops,South Sudan,Production,"Mangoes, mangosteens, guavas",2018,tonnes,
+Crops,South Sudan,Production,"Mangoes, mangosteens, guavas",2019,tonnes,
+Crops,South Sudan,Production,Millet,2016,tonnes,6000
+Crops,South Sudan,Production,Millet,2017,tonnes,5000
+Crops,South Sudan,Production,Millet,2018,tonnes,5000
+Crops,South Sudan,Production,Millet,2019,tonnes,5000
+Crops,South Sudan,Production,"Onions, dry",2016,tonnes,
+Crops,South Sudan,Production,"Onions, dry",2017,tonnes,
+Crops,South Sudan,Production,"Onions, dry",2018,tonnes,
+Crops,South Sudan,Production,"Onions, dry",2019,tonnes,
+Crops,South Sudan,Production,Oranges,2016,tonnes,
+Crops,South Sudan,Production,Oranges,2017,tonnes,
+Crops,South Sudan,Production,Oranges,2018,tonnes,
+Crops,South Sudan,Production,Oranges,2019,tonnes,
+Crops,South Sudan,Production,"Peas, green",2016,tonnes,
+Crops,South Sudan,Production,"Peas, green",2017,tonnes,
+Crops,South Sudan,Production,"Peas, green",2018,tonnes,
+Crops,South Sudan,Production,"Peas, green",2019,tonnes,
+Crops,South Sudan,Production,Pineapples,2016,tonnes,5000
+Crops,South Sudan,Production,Pineapples,2017,tonnes,5500
+Crops,South Sudan,Production,Pineapples,2018,tonnes,6000
+Crops,South Sudan,Production,Pineapples,2019,tonnes,6500
+Crops,South Sudan,Production,Potatoes,2016,tonnes,
+Crops,South Sudan,Production,Potatoes,2017,tonnes,
+Crops,South Sudan,Production,Potatoes,2018,tonnes,
+Crops,South Sudan,Production,Potatoes,2019,tonnes,
+Crops,South Sudan,Production,"Pumpkins, squash and gourds",2016,tonnes,80430
+Crops,South Sudan,Production,"Pumpkins, squash and gourds",2017,tonnes,87659
+Crops,South Sudan,Production,"Pumpkins, squash and gourds",2018,tonnes,95157
+Crops,South Sudan,Production,"Pumpkins, squash and gourds",2019,tonnes,102655
+Crops,South Sudan,Production,"Rice, paddy",2016,tonnes,
+Crops,South Sudan,Production,"Rice, paddy",2017,tonnes,
+Crops,South Sudan,Production,"Rice, paddy",2018,tonnes,
+Crops,South Sudan,Production,"Rice, paddy",2019,tonnes,
+Crops,South Sudan,Production,Seed cotton,2016,tonnes,
+Crops,South Sudan,Production,Seed cotton,2017,tonnes,
+Crops,South Sudan,Production,Seed cotton,2018,tonnes,
+Crops,South Sudan,Production,Seed cotton,2019,tonnes,
+Crops,South Sudan,Production,Sorghum,2016,tonnes,712000
+Crops,South Sudan,Production,Sorghum,2017,tonnes,667000
+Crops,South Sudan,Production,Sorghum,2018,tonnes,650000
+Crops,South Sudan,Production,Sorghum,2019,tonnes,710000
+Crops,South Sudan,Production,Sugar cane,2016,tonnes,
+Crops,South Sudan,Production,Sugar cane,2017,tonnes,
+Crops,South Sudan,Production,Sugar cane,2018,tonnes,
+Crops,South Sudan,Production,Sugar cane,2019,tonnes,
+Crops,South Sudan,Production,Sunflower seed,2016,tonnes,62000
+Crops,South Sudan,Production,Sunflower seed,2017,tonnes,68000
+Crops,South Sudan,Production,Sunflower seed,2018,tonnes,74000
+Crops,South Sudan,Production,Sunflower seed,2019,tonnes,80000
+Crops,South Sudan,Production,Sweet potatoes,2016,tonnes,
+Crops,South Sudan,Production,Sweet potatoes,2017,tonnes,
+Crops,South Sudan,Production,Sweet potatoes,2018,tonnes,
+Crops,South Sudan,Production,Sweet potatoes,2019,tonnes,
+Crops,South Sudan,Production,Tomatoes,2016,tonnes,
+Crops,South Sudan,Production,Tomatoes,2017,tonnes,
+Crops,South Sudan,Production,Tomatoes,2018,tonnes,
+Crops,South Sudan,Production,Tomatoes,2019,tonnes,
+Crops,South Sudan,Production,"Vegetables, fresh nes",2016,tonnes,543475
+Crops,South Sudan,Production,"Vegetables, fresh nes",2017,tonnes,561655
+Crops,South Sudan,Production,"Vegetables, fresh nes",2018,tonnes,614152
+Crops,South Sudan,Production,"Vegetables, fresh nes",2019,tonnes,666649
+Crops,South Sudan,Production,Watermelons,2016,tonnes,
+Crops,South Sudan,Production,Watermelons,2017,tonnes,
+Crops,South Sudan,Production,Watermelons,2018,tonnes,
+Crops,South Sudan,Production,Watermelons,2019,tonnes,
+Crops,South Sudan,Production,Wheat,2016,tonnes,
+Crops,South Sudan,Production,Wheat,2017,tonnes,
+Crops,South Sudan,Production,Wheat,2018,tonnes,
+Crops,South Sudan,Production,Wheat,2019,tonnes,
+Crops,South Sudan,Production,Yams,2016,tonnes,57183
+Crops,South Sudan,Production,Yams,2017,tonnes,58419
+Crops,South Sudan,Production,Yams,2018,tonnes,61133
+Crops,South Sudan,Production,Yams,2019,tonnes,63846
+Crops,Uganda,Production,Bananas,2016,tonnes,559246
+Crops,Uganda,Production,Bananas,2017,tonnes,554374
+Crops,Uganda,Production,Bananas,2018,tonnes,549501
+Crops,Uganda,Production,Bananas,2019,tonnes,544629
+Crops,Uganda,Production,"Beans, dry",2016,tonnes,809640
+Crops,Uganda,Production,"Beans, dry",2017,tonnes,1012406
+Crops,Uganda,Production,"Beans, dry",2018,tonnes,940323
+Crops,Uganda,Production,"Beans, dry",2019,tonnes,979789
+Crops,Uganda,Production,Cassava,2016,tonnes,2728988
+Crops,Uganda,Production,Cassava,2017,tonnes,2729260
+Crops,Uganda,Production,Cassava,2018,tonnes,2819327
+Crops,Uganda,Production,Cassava,2019,tonnes,2841625
+Crops,Uganda,Production,Castor oil seed,2016,tonnes,1000
+Crops,Uganda,Production,Castor oil seed,2017,tonnes,1000
+Crops,Uganda,Production,Castor oil seed,2018,tonnes,1000
+Crops,Uganda,Production,Castor oil seed,2019,tonnes,1013
+Crops,Uganda,Production,Chick peas,2016,tonnes,5238
+Crops,Uganda,Production,Chick peas,2017,tonnes,5342
+Crops,Uganda,Production,Chick peas,2018,tonnes,5445
+Crops,Uganda,Production,Chick peas,2019,tonnes,5549
+Crops,Uganda,Production,"Chillies and peppers, dry",2016,tonnes,2951
+Crops,Uganda,Production,"Chillies and peppers, dry",2017,tonnes,2893
+Crops,Uganda,Production,"Chillies and peppers, dry",2018,tonnes,2838
+Crops,Uganda,Production,"Chillies and peppers, dry",2019,tonnes,2785
+Crops,Uganda,Production,"Cocoa, beans",2016,tonnes,35000
+Crops,Uganda,Production,"Cocoa, beans",2017,tonnes,35000
+Crops,Uganda,Production,"Cocoa, beans",2018,tonnes,35000
+Crops,Uganda,Production,"Cocoa, beans",2019,tonnes,35000
+Crops,Uganda,Production,"Cow peas, dry",2016,tonnes,11433
+Crops,Uganda,Production,"Cow peas, dry",2017,tonnes,12714
+Crops,Uganda,Production,"Cow peas, dry",2018,tonnes,12441
+Crops,Uganda,Production,"Cow peas, dry",2019,tonnes,12697
+Crops,Uganda,Production,Ginger,2016,tonnes,150
+Crops,Uganda,Production,Ginger,2017,tonnes,150
+Crops,Uganda,Production,Ginger,2018,tonnes,151
+Crops,Uganda,Production,Ginger,2019,tonnes,152
+Crops,Uganda,Production,"Groundnuts, with shell",2016,tonnes,274844
+Crops,Uganda,Production,"Groundnuts, with shell",2017,tonnes,296578
+Crops,Uganda,Production,"Groundnuts, with shell",2018,tonnes,193236
+Crops,Uganda,Production,"Groundnuts, with shell",2019,tonnes,160000
+Crops,Uganda,Production,Maize,2016,tonnes,2482795
+Crops,Uganda,Production,Maize,2017,tonnes,2631728
+Crops,Uganda,Production,Maize,2018,tonnes,2772718
+Crops,Uganda,Production,Maize,2019,tonnes,2575000
+Crops,Uganda,Production,Millet,2016,tonnes,193461
+Crops,Uganda,Production,Millet,2017,tonnes,211050
+Crops,Uganda,Production,Millet,2018,tonnes,238558
+Crops,Uganda,Production,Millet,2019,tonnes,243104
+Crops,Uganda,Production,"Onions, dry",2016,tonnes,338851
+Crops,Uganda,Production,"Onions, dry",2017,tonnes,349767
+Crops,Uganda,Production,"Onions, dry",2018,tonnes,360683
+Crops,Uganda,Production,"Onions, dry",2019,tonnes,371599
+Crops,Uganda,Production,"Peas, dry",2016,tonnes,12500
+Crops,Uganda,Production,"Peas, dry",2017,tonnes,13097
+Crops,Uganda,Production,"Peas, dry",2018,tonnes,11805
+Crops,Uganda,Production,"Peas, dry",2019,tonnes,12894
+Crops,Uganda,Production,Pineapples,2016,tonnes,3668
+Crops,Uganda,Production,Pineapples,2017,tonnes,3803
+Crops,Uganda,Production,Pineapples,2018,tonnes,3937
+Crops,Uganda,Production,Pineapples,2019,tonnes,4072
+Crops,Uganda,Production,Potatoes,2016,tonnes,171271
+Crops,Uganda,Production,Potatoes,2017,tonnes,173244
+Crops,Uganda,Production,Potatoes,2018,tonnes,178980
+Crops,Uganda,Production,Potatoes,2019,tonnes,181904
+Crops,Uganda,Production,"Rice, paddy",2016,tonnes,214910
+Crops,Uganda,Production,"Rice, paddy",2017,tonnes,239457
+Crops,Uganda,Production,"Rice, paddy",2018,tonnes,245910
+Crops,Uganda,Production,"Rice, paddy",2019,tonnes,220000
+Crops,Uganda,Production,Seed cotton,2016,tonnes,85700
+Crops,Uganda,Production,Seed cotton,2017,tonnes,119000
+Crops,Uganda,Production,Seed cotton,2018,tonnes,87300
+Crops,Uganda,Production,Seed cotton,2019,tonnes,103000
+Crops,Uganda,Production,Sisal,2016,tonnes,4
+Crops,Uganda,Production,Sisal,2017,tonnes,5
+Crops,Uganda,Production,Sisal,2018,tonnes,5
+Crops,Uganda,Production,Sisal,2019,tonnes,5
+Crops,Uganda,Production,Sorghum,2016,tonnes,365622
+Crops,Uganda,Production,Sorghum,2017,tonnes,410597
+Crops,Uganda,Production,Sorghum,2018,tonnes,371517
+Crops,Uganda,Production,Sorghum,2019,tonnes,400000
+Crops,Uganda,Production,Soybeans,2016,tonnes,25730
+Crops,Uganda,Production,Soybeans,2017,tonnes,28097
+Crops,Uganda,Production,Soybeans,2018,tonnes,27222
+Crops,Uganda,Production,Soybeans,2019,tonnes,28000
+Crops,Uganda,Production,Sugar cane,2016,tonnes,3300000
+Crops,Uganda,Production,Sugar cane,2017,tonnes,4000000
+Crops,Uganda,Production,Sugar cane,2018,tonnes,4700000
+Crops,Uganda,Production,Sugar cane,2019,tonnes,4892047
+Crops,Uganda,Production,Sunflower seed,2016,tonnes,237219
+Crops,Uganda,Production,Sunflower seed,2017,tonnes,243150
+Crops,Uganda,Production,Sunflower seed,2018,tonnes,272328
+Crops,Uganda,Production,Sunflower seed,2019,tonnes,260000
+Crops,Uganda,Production,Sweet potatoes,2016,tonnes,1910718
+Crops,Uganda,Production,Sweet potatoes,2017,tonnes,1930139
+Crops,Uganda,Production,Sweet potatoes,2018,tonnes,1955991
+Crops,Uganda,Production,Sweet potatoes,2019,tonnes,1949476
+Crops,Uganda,Production,Tea,2016,tonnes,39299
+Crops,Uganda,Production,Tea,2017,tonnes,50055
+Crops,Uganda,Production,Tea,2018,tonnes,71567
+Crops,Uganda,Production,Tea,2019,tonnes,73486
+Crops,Uganda,Production,Tomatoes,2016,tonnes,39484
+Crops,Uganda,Production,Tomatoes,2017,tonnes,41067
+Crops,Uganda,Production,Tomatoes,2018,tonnes,42651
+Crops,Uganda,Production,Tomatoes,2019,tonnes,44235
+Crops,Uganda,Production,"Vegetables, fresh nes",2016,tonnes,1097709
+Crops,Uganda,Production,"Vegetables, fresh nes",2017,tonnes,1150556
+Crops,Uganda,Production,"Vegetables, fresh nes",2018,tonnes,1203404
+Crops,Uganda,Production,"Vegetables, fresh nes",2019,tonnes,1256252
+Crops,Uganda,Production,Wheat,2016,tonnes,22100
+Crops,Uganda,Production,Wheat,2017,tonnes,22100
+Crops,Uganda,Production,Wheat,2018,tonnes,23206
+Crops,Uganda,Production,Wheat,2019,tonnes,23583
+Crops,United Republic of Tanzania,Production,Bananas,2016,tonnes,3160587
+Crops,United Republic of Tanzania,Production,Bananas,2017,tonnes,2533674
+Crops,United Republic of Tanzania,Production,Bananas,2018,tonnes,3395499
+Crops,United Republic of Tanzania,Production,Bananas,2019,tonnes,3406936
+Crops,United Republic of Tanzania,Production,Barley,2016,tonnes,15718
+Crops,United Republic of Tanzania,Production,Barley,2017,tonnes,17255
+Crops,United Republic of Tanzania,Production,Barley,2018,tonnes,19501
+Crops,United Republic of Tanzania,Production,Barley,2019,tonnes,20019
+Crops,United Republic of Tanzania,Production,"Beans, dry",2016,tonnes,1191766
+Crops,United Republic of Tanzania,Production,"Beans, dry",2017,tonnes,1428434
+Crops,United Republic of Tanzania,Production,"Beans, dry",2018,tonnes,1096930
+Crops,United Republic of Tanzania,Production,"Beans, dry",2019,tonnes,1197489
+Crops,United Republic of Tanzania,Production,"Beans, green",2016,tonnes,5800
+Crops,United Republic of Tanzania,Production,"Beans, green",2017,tonnes,6120
+Crops,United Republic of Tanzania,Production,"Beans, green",2018,tonnes,6440
+Crops,United Republic of Tanzania,Production,"Beans, green",2019,tonnes,6760
+Crops,United Republic of Tanzania,Production,Cabbages and other brassicas,2016,tonnes,84540
+Crops,United Republic of Tanzania,Production,Cabbages and other brassicas,2017,tonnes,87540
+Crops,United Republic of Tanzania,Production,Cabbages and other brassicas,2018,tonnes,89808
+Crops,United Republic of Tanzania,Production,Cabbages and other brassicas,2019,tonnes,91573
+Crops,United Republic of Tanzania,Production,"Cashew nuts, with shell",2016,tonnes,155416
+Crops,United Republic of Tanzania,Production,"Cashew nuts, with shell",2017,tonnes,265238
+Crops,United Republic of Tanzania,Production,"Cashew nuts, with shell",2018,tonnes,313826
+Crops,United Republic of Tanzania,Production,"Cashew nuts, with shell",2019,tonnes,225106
+Crops,United Republic of Tanzania,Production,Cassava,2016,tonnes,5325085
+Crops,United Republic of Tanzania,Production,Cassava,2017,tonnes,4025265
+Crops,United Republic of Tanzania,Production,Cassava,2018,tonnes,8372217
+Crops,United Republic of Tanzania,Production,Cassava,2019,tonnes,8184093
+Crops,United Republic of Tanzania,Production,Castor oil seed,2016,tonnes,3000
+Crops,United Republic of Tanzania,Production,Castor oil seed,2017,tonnes,3000
+Crops,United Republic of Tanzania,Production,Castor oil seed,2018,tonnes,3000
+Crops,United Republic of Tanzania,Production,Castor oil seed,2019,tonnes,3000
+Crops,United Republic of Tanzania,Production,Chick peas,2016,tonnes,47941
+Crops,United Republic of Tanzania,Production,Chick peas,2017,tonnes,36521
+Crops,United Republic of Tanzania,Production,Chick peas,2018,tonnes,66829
+Crops,United Republic of Tanzania,Production,Chick peas,2019,tonnes,42155
+Crops,United Republic of Tanzania,Production,"Chillies and peppers, dry",2016,tonnes,7241
+Crops,United Republic of Tanzania,Production,"Chillies and peppers, dry",2017,tonnes,7251
+Crops,United Republic of Tanzania,Production,"Chillies and peppers, dry",2018,tonnes,7261
+Crops,United Republic of Tanzania,Production,"Chillies and peppers, dry",2019,tonnes,7271
+Crops,United Republic of Tanzania,Production,"Chillies and peppers, green",2016,tonnes,16926
+Crops,United Republic of Tanzania,Production,"Chillies and peppers, green",2017,tonnes,17800
+Crops,United Republic of Tanzania,Production,"Chillies and peppers, green",2018,tonnes,18675
+Crops,United Republic of Tanzania,Production,"Chillies and peppers, green",2019,tonnes,19549
+Crops,United Republic of Tanzania,Production,"Cocoa, beans",2016,tonnes,13000
+Crops,United Republic of Tanzania,Production,"Cocoa, beans",2017,tonnes,13000
+Crops,United Republic of Tanzania,Production,"Cocoa, beans",2018,tonnes,15000
+Crops,United Republic of Tanzania,Production,"Cocoa, beans",2019,tonnes,13000
+Crops,United Republic of Tanzania,Production,"Cow peas, dry",2016,tonnes,177091
+Crops,United Republic of Tanzania,Production,"Cow peas, dry",2017,tonnes,177631
+Crops,United Republic of Tanzania,Production,"Cow peas, dry",2018,tonnes,121772
+Crops,United Republic of Tanzania,Production,"Cow peas, dry",2019,tonnes,127884
+Crops,United Republic of Tanzania,Production,Fibre crops nes,2016,tonnes,8671
+Crops,United Republic of Tanzania,Production,Fibre crops nes,2017,tonnes,8578
+Crops,United Republic of Tanzania,Production,Fibre crops nes,2018,tonnes,8485
+Crops,United Republic of Tanzania,Production,Fibre crops nes,2019,tonnes,8392
+Crops,United Republic of Tanzania,Production,"Fruit, citrus nes",2016,tonnes,45492
+Crops,United Republic of Tanzania,Production,"Fruit, citrus nes",2017,tonnes,45903
+Crops,United Republic of Tanzania,Production,"Fruit, citrus nes",2018,tonnes,46314
+Crops,United Republic of Tanzania,Production,"Fruit, citrus nes",2019,tonnes,46725
+Crops,United Republic of Tanzania,Production,"Fruit, tropical fresh nes",2016,tonnes,50683
+Crops,United Republic of Tanzania,Production,"Fruit, tropical fresh nes",2017,tonnes,50719
+Crops,United Republic of Tanzania,Production,"Fruit, tropical fresh nes",2018,tonnes,50755
+Crops,United Republic of Tanzania,Production,"Fruit, tropical fresh nes",2019,tonnes,50791
+Crops,United Republic of Tanzania,Production,Garlic,2016,tonnes,5707
+Crops,United Republic of Tanzania,Production,Garlic,2017,tonnes,5935
+Crops,United Republic of Tanzania,Production,Garlic,2018,tonnes,6164
+Crops,United Republic of Tanzania,Production,Garlic,2019,tonnes,6392
+Crops,United Republic of Tanzania,Production,Ginger,2016,tonnes,42
+Crops,United Republic of Tanzania,Production,Ginger,2017,tonnes,42
+Crops,United Republic of Tanzania,Production,Ginger,2018,tonnes,42
+Crops,United Republic of Tanzania,Production,Ginger,2019,tonnes,42
+Crops,United Republic of Tanzania,Production,Grapes,2016,tonnes,3764
+Crops,United Republic of Tanzania,Production,Grapes,2017,tonnes,3303
+Crops,United Republic of Tanzania,Production,Grapes,2018,tonnes,3253
+Crops,United Republic of Tanzania,Production,Grapes,2019,tonnes,3202
+Crops,United Republic of Tanzania,Production,"Groundnuts, with shell",2016,tonnes,640000
+Crops,United Republic of Tanzania,Production,"Groundnuts, with shell",2017,tonnes,650000
+Crops,United Republic of Tanzania,Production,"Groundnuts, with shell",2018,tonnes,670000
+Crops,United Republic of Tanzania,Production,"Groundnuts, with shell",2019,tonnes,680000
+Crops,United Republic of Tanzania,Production,Lemons and limes,2016,tonnes,10476
+Crops,United Republic of Tanzania,Production,Lemons and limes,2017,tonnes,10242
+Crops,United Republic of Tanzania,Production,Lemons and limes,2018,tonnes,10359
+Crops,United Republic of Tanzania,Production,Lemons and limes,2019,tonnes,10000
+Crops,United Republic of Tanzania,Production,Maize,2016,tonnes,6149000
+Crops,United Republic of Tanzania,Production,Maize,2017,tonnes,6680758
+Crops,United Republic of Tanzania,Production,Maize,2018,tonnes,6273151
+Crops,United Republic of Tanzania,Production,Maize,2019,tonnes,5652005
+Crops,United Republic of Tanzania,Production,"Maize, green",2016,tonnes,56334
+Crops,United Republic of Tanzania,Production,"Maize, green",2017,tonnes,58257
+Crops,United Republic of Tanzania,Production,"Maize, green",2018,tonnes,60181
+Crops,United Republic of Tanzania,Production,"Maize, green",2019,tonnes,62104
+Crops,United Republic of Tanzania,Production,"Mangoes, mangosteens, guavas",2016,tonnes,429366
+Crops,United Republic of Tanzania,Production,"Mangoes, mangosteens, guavas",2017,tonnes,436697
+Crops,United Republic of Tanzania,Production,"Mangoes, mangosteens, guavas",2018,tonnes,444027
+Crops,United Republic of Tanzania,Production,"Mangoes, mangosteens, guavas",2019,tonnes,451357
+Crops,United Republic of Tanzania,Production,Millet,2016,tonnes,316691
+Crops,United Republic of Tanzania,Production,Millet,2017,tonnes,308897
+Crops,United Republic of Tanzania,Production,Millet,2018,tonnes,316194
+Crops,United Republic of Tanzania,Production,Millet,2019,tonnes,385962
+Crops,United Republic of Tanzania,Production,Oil palm fruit,2016,tonnes,73972
+Crops,United Republic of Tanzania,Production,Oil palm fruit,2017,tonnes,74529
+Crops,United Republic of Tanzania,Production,Oil palm fruit,2018,tonnes,75086
+Crops,United Republic of Tanzania,Production,Oil palm fruit,2019,tonnes,75644
+Crops,United Republic of Tanzania,Production,"Onions, dry",2016,tonnes,218717
+Crops,United Republic of Tanzania,Production,"Onions, dry",2017,tonnes,236077
+Crops,United Republic of Tanzania,Production,"Onions, dry",2018,tonnes,253436
+Crops,United Republic of Tanzania,Production,"Onions, dry",2019,tonnes,270796
+Crops,United Republic of Tanzania,Production,Oranges,2016,tonnes,434281
+Crops,United Republic of Tanzania,Production,Oranges,2017,tonnes,450000
+Crops,United Republic of Tanzania,Production,Oranges,2018,tonnes,468276
+Crops,United Republic of Tanzania,Production,Oranges,2019,tonnes,535275
+Crops,United Republic of Tanzania,Production,"Peas, dry",2016,tonnes,40000
+Crops,United Republic of Tanzania,Production,"Peas, dry",2017,tonnes,30000
+Crops,United Republic of Tanzania,Production,"Peas, dry",2018,tonnes,30000
+Crops,United Republic of Tanzania,Production,"Peas, dry",2019,tonnes,32344
+Crops,United Republic of Tanzania,Production,"Peas, green",2016,tonnes,9924
+Crops,United Republic of Tanzania,Production,"Peas, green",2017,tonnes,10292
+Crops,United Republic of Tanzania,Production,"Peas, green",2018,tonnes,10659
+Crops,United Republic of Tanzania,Production,"Peas, green",2019,tonnes,11027
+Crops,United Republic of Tanzania,Production,Pineapples,2016,tonnes,407740
+Crops,United Republic of Tanzania,Production,Pineapples,2017,tonnes,421938
+Crops,United Republic of Tanzania,Production,Pineapples,2018,tonnes,437973
+Crops,United Republic of Tanzania,Production,Pineapples,2019,tonnes,454008
+Crops,United Republic of Tanzania,Production,Potatoes,2016,tonnes,1125195
+Crops,United Republic of Tanzania,Production,Potatoes,2017,tonnes,583082
+Crops,United Republic of Tanzania,Production,Potatoes,2018,tonnes,1080144
+Crops,United Republic of Tanzania,Production,Potatoes,2019,tonnes,1013408
+Crops,United Republic of Tanzania,Production,"Pyrethrum, dried",2016,tonnes,5852
+Crops,United Republic of Tanzania,Production,"Pyrethrum, dried",2017,tonnes,6717
+Crops,United Republic of Tanzania,Production,"Pyrethrum, dried",2018,tonnes,7080
+Crops,United Republic of Tanzania,Production,"Pyrethrum, dried",2019,tonnes,7347
+Crops,United Republic of Tanzania,Production,"Rice, paddy",2016,tonnes,2229000
+Crops,United Republic of Tanzania,Production,"Rice, paddy",2017,tonnes,2451707
+Crops,United Republic of Tanzania,Production,"Rice, paddy",2018,tonnes,3414815
+Crops,United Republic of Tanzania,Production,"Rice, paddy",2019,tonnes,3474766
+Crops,United Republic of Tanzania,Production,Seed cotton,2016,tonnes,149445
+Crops,United Republic of Tanzania,Production,Seed cotton,2017,tonnes,164709
+Crops,United Republic of Tanzania,Production,Seed cotton,2018,tonnes,269393
+Crops,United Republic of Tanzania,Production,Seed cotton,2019,tonnes,267789
+Crops,United Republic of Tanzania,Production,Sisal,2016,tonnes,33353
+Crops,United Republic of Tanzania,Production,Sisal,2017,tonnes,31934
+Crops,United Republic of Tanzania,Production,Sisal,2018,tonnes,32460
+Crops,United Republic of Tanzania,Production,Sisal,2019,tonnes,32737
+Crops,United Republic of Tanzania,Production,Sorghum,2016,tonnes,743487
+Crops,United Republic of Tanzania,Production,Sorghum,2017,tonnes,755041
+Crops,United Republic of Tanzania,Production,Sorghum,2018,tonnes,672235
+Crops,United Republic of Tanzania,Production,Sorghum,2019,tonnes,731877
+Crops,United Republic of Tanzania,Production,Soybeans,2016,tonnes,6783
+Crops,United Republic of Tanzania,Production,Soybeans,2017,tonnes,6135
+Crops,United Republic of Tanzania,Production,Soybeans,2018,tonnes,21321
+Crops,United Republic of Tanzania,Production,Soybeans,2019,tonnes,22953
+Crops,United Republic of Tanzania,Production,Sugar cane,2016,tonnes,3015780
+Crops,United Republic of Tanzania,Production,Sugar cane,2017,tonnes,3060610
+Crops,United Republic of Tanzania,Production,Sugar cane,2018,tonnes,3117812
+Crops,United Republic of Tanzania,Production,Sugar cane,2019,tonnes,3589459
+Crops,United Republic of Tanzania,Production,Sunflower seed,2016,tonnes,950000
+Crops,United Republic of Tanzania,Production,Sunflower seed,2017,tonnes,990000
+Crops,United Republic of Tanzania,Production,Sunflower seed,2018,tonnes,1000000
+Crops,United Republic of Tanzania,Production,Sunflower seed,2019,tonnes,1040000
+Crops,United Republic of Tanzania,Production,Sweet potatoes,2016,tonnes,3993671
+Crops,United Republic of Tanzania,Production,Sweet potatoes,2017,tonnes,5440824
+Crops,United Republic of Tanzania,Production,Sweet potatoes,2018,tonnes,3744093
+Crops,United Republic of Tanzania,Production,Sweet potatoes,2019,tonnes,3921590
+Crops,United Republic of Tanzania,Production,Tea,2016,tonnes,32629
+Crops,United Republic of Tanzania,Production,Tea,2017,tonnes,41495
+Crops,United Republic of Tanzania,Production,Tea,2018,tonnes,55426
+Crops,United Republic of Tanzania,Production,Tea,2019,tonnes,63104
+Crops,United Republic of Tanzania,Production,Tomatoes,2016,tonnes,520074
+Crops,United Republic of Tanzania,Production,Tomatoes,2017,tonnes,555979
+Crops,United Republic of Tanzania,Production,Tomatoes,2018,tonnes,591883
+Crops,United Republic of Tanzania,Production,Tomatoes,2019,tonnes,627788
+Crops,United Republic of Tanzania,Production,"Vegetables, fresh nes",2016,tonnes,2128271
+Crops,United Republic of Tanzania,Production,"Vegetables, fresh nes",2017,tonnes,2231335
+Crops,United Republic of Tanzania,Production,"Vegetables, fresh nes",2018,tonnes,2334398
+Crops,United Republic of Tanzania,Production,"Vegetables, fresh nes",2019,tonnes,2437462
+Crops,United Republic of Tanzania,Production,"Vegetables, leguminous nes",2016,tonnes,7929
+Crops,United Republic of Tanzania,Production,"Vegetables, leguminous nes",2017,tonnes,8505
+Crops,United Republic of Tanzania,Production,"Vegetables, leguminous nes",2018,tonnes,9081
+Crops,United Republic of Tanzania,Production,"Vegetables, leguminous nes",2019,tonnes,9656
+Crops,United Republic of Tanzania,Production,Watermelons,2016,tonnes,34797
+Crops,United Republic of Tanzania,Production,Watermelons,2017,tonnes,37114
+Crops,United Republic of Tanzania,Production,Watermelons,2018,tonnes,39430
+Crops,United Republic of Tanzania,Production,Watermelons,2019,tonnes,41747
+Crops,United Republic of Tanzania,Production,Wheat,2016,tonnes,76000
+Crops,United Republic of Tanzania,Production,Wheat,2017,tonnes,50467
+Crops,United Republic of Tanzania,Production,Wheat,2018,tonnes,56651
+Crops,United Republic of Tanzania,Production,Wheat,2019,tonnes,63388
+Crops,United Republic of Tanzania,Production,Yams,2016,tonnes,8308
+Crops,United Republic of Tanzania,Production,Yams,2017,tonnes,7770
+Crops,United Republic of Tanzania,Production,Yams,2018,tonnes,7951
+Crops,United Republic of Tanzania,Production,Yams,2019,tonnes,8132
+Crops,Zambia,Production,Bananas,2016,tonnes,660
+Crops,Zambia,Production,Bananas,2017,tonnes,654
+Crops,Zambia,Production,Bananas,2018,tonnes,649
+Crops,Zambia,Production,Bananas,2019,tonnes,644
+Crops,Zambia,Production,Barley,2016,tonnes,9815
+Crops,Zambia,Production,Barley,2017,tonnes,10439
+Crops,Zambia,Production,Barley,2018,tonnes,11063
+Crops,Zambia,Production,Barley,2019,tonnes,11687
+Crops,Zambia,Production,"Beans, green",2016,tonnes,
+Crops,Zambia,Production,"Beans, green",2017,tonnes,
+Crops,Zambia,Production,"Beans, green",2018,tonnes,
+Crops,Zambia,Production,"Beans, green",2019,tonnes,
+Crops,Zambia,Production,Cabbages and other brassicas,2016,tonnes,
+Crops,Zambia,Production,Cabbages and other brassicas,2017,tonnes,
+Crops,Zambia,Production,Cabbages and other brassicas,2018,tonnes,
+Crops,Zambia,Production,Cabbages and other brassicas,2019,tonnes,
+Crops,Zambia,Production,Cassava,2016,tonnes,2222096
+Crops,Zambia,Production,Cassava,2017,tonnes,3695182
+Crops,Zambia,Production,Cassava,2018,tonnes,4102300
+Crops,Zambia,Production,Cassava,2019,tonnes,4036584
+Crops,Zambia,Production,Cauliflowers and broccoli,2016,tonnes,
+Crops,Zambia,Production,Cauliflowers and broccoli,2017,tonnes,
+Crops,Zambia,Production,Cauliflowers and broccoli,2018,tonnes,
+Crops,Zambia,Production,Cauliflowers and broccoli,2019,tonnes,
+Crops,Zambia,Production,"Chillies and peppers, dry",2016,tonnes,591
+Crops,Zambia,Production,"Chillies and peppers, dry",2017,tonnes,560
+Crops,Zambia,Production,"Chillies and peppers, dry",2018,tonnes,529
+Crops,Zambia,Production,"Chillies and peppers, dry",2019,tonnes,498
+Crops,Zambia,Production,"Fruit, citrus nes",2016,tonnes,
+Crops,Zambia,Production,"Fruit, citrus nes",2017,tonnes,
+Crops,Zambia,Production,"Fruit, citrus nes",2018,tonnes,
+Crops,Zambia,Production,"Fruit, citrus nes",2019,tonnes,
+Crops,Zambia,Production,"Fruit, tropical fresh nes",2016,tonnes,83514
+Crops,Zambia,Production,"Fruit, tropical fresh nes",2017,tonnes,83919
+Crops,Zambia,Production,"Fruit, tropical fresh nes",2018,tonnes,84325
+Crops,Zambia,Production,"Fruit, tropical fresh nes",2019,tonnes,84731
+Crops,Zambia,Production,Ginger,2016,tonnes,
+Crops,Zambia,Production,Ginger,2017,tonnes,
+Crops,Zambia,Production,Ginger,2018,tonnes,
+Crops,Zambia,Production,Ginger,2019,tonnes,
+Crops,Zambia,Production,"Groundnuts, with shell",2016,tonnes,153888
+Crops,Zambia,Production,"Groundnuts, with shell",2017,tonnes,168699
+Crops,Zambia,Production,"Groundnuts, with shell",2018,tonnes,181772
+Crops,Zambia,Production,"Groundnuts, with shell",2019,tonnes,130825
+Crops,Zambia,Production,Lemons and limes,2016,tonnes,
+Crops,Zambia,Production,Lemons and limes,2017,tonnes,
+Crops,Zambia,Production,Lemons and limes,2018,tonnes,
+Crops,Zambia,Production,Lemons and limes,2019,tonnes,
+Crops,Zambia,Production,Maize,2016,tonnes,2873052
+Crops,Zambia,Production,Maize,2017,tonnes,3606549
+Crops,Zambia,Production,Maize,2018,tonnes,2394907
+Crops,Zambia,Production,Maize,2019,tonnes,2004389
+Crops,Zambia,Production,Millet,2016,tonnes,29972
+Crops,Zambia,Production,Millet,2017,tonnes,32566
+Crops,Zambia,Production,Millet,2018,tonnes,32278
+Crops,Zambia,Production,Millet,2019,tonnes,24843
+Crops,Zambia,Production,"Onions, dry",2016,tonnes,38394
+Crops,Zambia,Production,"Onions, dry",2017,tonnes,38662
+Crops,Zambia,Production,"Onions, dry",2018,tonnes,38930
+Crops,Zambia,Production,"Onions, dry",2019,tonnes,39198
+Crops,Zambia,Production,Oranges,2016,tonnes,3888
+Crops,Zambia,Production,Oranges,2017,tonnes,3899
+Crops,Zambia,Production,Oranges,2018,tonnes,3910
+Crops,Zambia,Production,Oranges,2019,tonnes,3922
+Crops,Zambia,Production,"Peas, green",2016,tonnes,
+Crops,Zambia,Production,"Peas, green",2017,tonnes,
+Crops,Zambia,Production,"Peas, green",2018,tonnes,
+Crops,Zambia,Production,"Peas, green",2019,tonnes,
+Crops,Zambia,Production,Potatoes,2016,tonnes,24428
+Crops,Zambia,Production,Potatoes,2017,tonnes,31750
+Crops,Zambia,Production,Potatoes,2018,tonnes,13546
+Crops,Zambia,Production,Potatoes,2019,tonnes,38786
+Crops,Zambia,Production,"Rice, paddy",2016,tonnes,26675
+Crops,Zambia,Production,"Rice, paddy",2017,tonnes,38423
+Crops,Zambia,Production,"Rice, paddy",2018,tonnes,43063
+Crops,Zambia,Production,"Rice, paddy",2019,tonnes,29584
+Crops,Zambia,Production,Seed cotton,2016,tonnes,111902
+Crops,Zambia,Production,Seed cotton,2017,tonnes,89293
+Crops,Zambia,Production,Seed cotton,2018,tonnes,88219
+Crops,Zambia,Production,Seed cotton,2019,tonnes,72508
+Crops,Zambia,Production,Sorghum,2016,tonnes,14106
+Crops,Zambia,Production,Sorghum,2017,tonnes,17337
+Crops,Zambia,Production,Sorghum,2018,tonnes,13130
+Crops,Zambia,Production,Sorghum,2019,tonnes,6684
+Crops,Zambia,Production,Soybeans,2016,tonnes,267490
+Crops,Zambia,Production,Soybeans,2017,tonnes,351416
+Crops,Zambia,Production,Soybeans,2018,tonnes,302720
+Crops,Zambia,Production,Soybeans,2019,tonnes,281389
+Crops,Zambia,Production,Sugar cane,2016,tonnes,4478332
+Crops,Zambia,Production,Sugar cane,2017,tonnes,4628032
+Crops,Zambia,Production,Sugar cane,2018,tonnes,4630000
+Crops,Zambia,Production,Sugar cane,2019,tonnes,4994302
+Crops,Zambia,Production,Sunflower seed,2016,tonnes,61072
+Crops,Zambia,Production,Sunflower seed,2017,tonnes,50220
+Crops,Zambia,Production,Sunflower seed,2018,tonnes,47594
+Crops,Zambia,Production,Sunflower seed,2019,tonnes,34208
+Crops,Zambia,Production,Sweet potatoes,2016,tonnes,231881
+Crops,Zambia,Production,Sweet potatoes,2017,tonnes,206676
+Crops,Zambia,Production,Sweet potatoes,2018,tonnes,183280
+Crops,Zambia,Production,Sweet potatoes,2019,tonnes,109336
+Crops,Zambia,Production,Tea,2016,tonnes,935
+Crops,Zambia,Production,Tea,2017,tonnes,948
+Crops,Zambia,Production,Tea,2018,tonnes,961
+Crops,Zambia,Production,Tea,2019,tonnes,973
+Crops,Zambia,Production,Tomatoes,2016,tonnes,26013
+Crops,Zambia,Production,Tomatoes,2017,tonnes,26044
+Crops,Zambia,Production,Tomatoes,2018,tonnes,26076
+Crops,Zambia,Production,Tomatoes,2019,tonnes,26108
+Crops,Zambia,Production,"Vegetables, fresh nes",2016,tonnes,381790
+Crops,Zambia,Production,"Vegetables, fresh nes",2017,tonnes,388662
+Crops,Zambia,Production,"Vegetables, fresh nes",2018,tonnes,395534
+Crops,Zambia,Production,"Vegetables, fresh nes",2019,tonnes,402406
+Crops,Zambia,Production,Wheat,2016,tonnes,159533
+Crops,Zambia,Production,Wheat,2017,tonnes,193713
+Crops,Zambia,Production,Wheat,2018,tonnes,114463
+Crops,Zambia,Production,Wheat,2019,tonnes,151850
+Crops,Zimbabwe,Production,Apples,2016,tonnes,6550
+Crops,Zimbabwe,Production,Apples,2017,tonnes,6514
+Crops,Zimbabwe,Production,Apples,2018,tonnes,6477
+Crops,Zimbabwe,Production,Apples,2019,tonnes,6441
+Crops,Zimbabwe,Production,Avocados,2016,tonnes,1800
+Crops,Zimbabwe,Production,Avocados,2017,tonnes,3000
+Crops,Zimbabwe,Production,Avocados,2018,tonnes,5300
+Crops,Zimbabwe,Production,Avocados,2019,tonnes,7233
+Crops,Zimbabwe,Production,Bananas,2016,tonnes,229368
+Crops,Zimbabwe,Production,Bananas,2017,tonnes,220000
+Crops,Zimbabwe,Production,Bananas,2018,tonnes,180000
+Crops,Zimbabwe,Production,Bananas,2019,tonnes,142380
+Crops,Zimbabwe,Production,Barley,2016,tonnes,53806
+Crops,Zimbabwe,Production,Barley,2017,tonnes,54820
+Crops,Zimbabwe,Production,Barley,2018,tonnes,55779
+Crops,Zimbabwe,Production,Barley,2019,tonnes,56781
+Crops,Zimbabwe,Production,"Beans, dry",2016,tonnes,9542
+Crops,Zimbabwe,Production,"Beans, dry",2017,tonnes,15262
+Crops,Zimbabwe,Production,"Beans, dry",2018,tonnes,22108
+Crops,Zimbabwe,Production,"Beans, dry",2019,tonnes,18119
+Crops,Zimbabwe,Production,"Beans, green",2016,tonnes,3423
+Crops,Zimbabwe,Production,"Beans, green",2017,tonnes,3576
+Crops,Zimbabwe,Production,"Beans, green",2018,tonnes,3730
+Crops,Zimbabwe,Production,"Beans, green",2019,tonnes,3883
+Crops,Zimbabwe,Production,Cabbages and other brassicas,2016,tonnes,470
+Crops,Zimbabwe,Production,Cabbages and other brassicas,2017,tonnes,484
+Crops,Zimbabwe,Production,Cabbages and other brassicas,2018,tonnes,498
+Crops,Zimbabwe,Production,Cabbages and other brassicas,2019,tonnes,512
+Crops,Zimbabwe,Production,Carrots and turnips,2016,tonnes,180
+Crops,Zimbabwe,Production,Carrots and turnips,2017,tonnes,185
+Crops,Zimbabwe,Production,Carrots and turnips,2018,tonnes,189
+Crops,Zimbabwe,Production,Carrots and turnips,2019,tonnes,193
+Crops,Zimbabwe,Production,Cassava,2016,tonnes,243595
+Crops,Zimbabwe,Production,Cassava,2017,tonnes,246000
+Crops,Zimbabwe,Production,Cassava,2018,tonnes,250000
+Crops,Zimbabwe,Production,Cassava,2019,tonnes,253835
+Crops,Zimbabwe,Production,Cauliflowers and broccoli,2016,tonnes,247
+Crops,Zimbabwe,Production,Cauliflowers and broccoli,2017,tonnes,232
+Crops,Zimbabwe,Production,Cauliflowers and broccoli,2018,tonnes,217
+Crops,Zimbabwe,Production,Cauliflowers and broccoli,2019,tonnes,203
+Crops,Zimbabwe,Production,Chick peas,2016,tonnes,483
+Crops,Zimbabwe,Production,Chick peas,2017,tonnes,496
+Crops,Zimbabwe,Production,Chick peas,2018,tonnes,508
+Crops,Zimbabwe,Production,Chick peas,2019,tonnes,521
+Crops,Zimbabwe,Production,"Chillies and peppers, dry",2016,tonnes,170
+Crops,Zimbabwe,Production,"Chillies and peppers, dry",2017,tonnes,128
+Crops,Zimbabwe,Production,"Chillies and peppers, dry",2018,tonnes,146
+Crops,Zimbabwe,Production,"Chillies and peppers, dry",2019,tonnes,356
+Crops,Zimbabwe,Production,"Chillies and peppers, green",2016,tonnes,2543
+Crops,Zimbabwe,Production,"Chillies and peppers, green",2017,tonnes,2689
+Crops,Zimbabwe,Production,"Chillies and peppers, green",2018,tonnes,2835
+Crops,Zimbabwe,Production,"Chillies and peppers, green",2019,tonnes,2981
+Crops,Zimbabwe,Production,"Cow peas, dry",2016,tonnes,
+Crops,Zimbabwe,Production,"Cow peas, dry",2017,tonnes,
+Crops,Zimbabwe,Production,"Cow peas, dry",2018,tonnes,
+Crops,Zimbabwe,Production,"Cow peas, dry",2019,tonnes,
+Crops,Zimbabwe,Production,"Fruit, citrus nes",2016,tonnes,526
+Crops,Zimbabwe,Production,"Fruit, citrus nes",2017,tonnes,534
+Crops,Zimbabwe,Production,"Fruit, citrus nes",2018,tonnes,543
+Crops,Zimbabwe,Production,"Fruit, citrus nes",2019,tonnes,551
+Crops,Zimbabwe,Production,"Fruit, tropical fresh nes",2016,tonnes,1321
+Crops,Zimbabwe,Production,"Fruit, tropical fresh nes",2017,tonnes,1349
+Crops,Zimbabwe,Production,"Fruit, tropical fresh nes",2018,tonnes,1376
+Crops,Zimbabwe,Production,"Fruit, tropical fresh nes",2019,tonnes,1404
+Crops,Zimbabwe,Production,Garlic,2016,tonnes,208
+Crops,Zimbabwe,Production,Garlic,2017,tonnes,212
+Crops,Zimbabwe,Production,Garlic,2018,tonnes,215
+Crops,Zimbabwe,Production,Garlic,2019,tonnes,218
+Crops,Zimbabwe,Production,Grapes,2016,tonnes,3332
+Crops,Zimbabwe,Production,Grapes,2017,tonnes,3367
+Crops,Zimbabwe,Production,Grapes,2018,tonnes,3402
+Crops,Zimbabwe,Production,Grapes,2019,tonnes,3436
+Crops,Zimbabwe,Production,"Groundnuts, with shell",2016,tonnes,47209
+Crops,Zimbabwe,Production,"Groundnuts, with shell",2017,tonnes,98398
+Crops,Zimbabwe,Production,"Groundnuts, with shell",2018,tonnes,102958
+Crops,Zimbabwe,Production,"Groundnuts, with shell",2019,tonnes,90000
+Crops,Zimbabwe,Production,"Leeks, other alliaceous vegetables",2016,tonnes,179
+Crops,Zimbabwe,Production,"Leeks, other alliaceous vegetables",2017,tonnes,183
+Crops,Zimbabwe,Production,"Leeks, other alliaceous vegetables",2018,tonnes,187
+Crops,Zimbabwe,Production,"Leeks, other alliaceous vegetables",2019,tonnes,191
+Crops,Zimbabwe,Production,Lemons and limes,2016,tonnes,16932
+Crops,Zimbabwe,Production,Lemons and limes,2017,tonnes,17101
+Crops,Zimbabwe,Production,Lemons and limes,2018,tonnes,17298
+Crops,Zimbabwe,Production,Lemons and limes,2019,tonnes,17481
+Crops,Zimbabwe,Production,Maize,2016,tonnes,511816
+Crops,Zimbabwe,Production,Maize,2017,tonnes,1532572
+Crops,Zimbabwe,Production,Maize,2018,tonnes,1560100
+Crops,Zimbabwe,Production,Maize,2019,tonnes,777000
+Crops,Zimbabwe,Production,"Maize, green",2016,tonnes,4429
+Crops,Zimbabwe,Production,"Maize, green",2017,tonnes,4565
+Crops,Zimbabwe,Production,"Maize, green",2018,tonnes,4700
+Crops,Zimbabwe,Production,"Maize, green",2019,tonnes,4836
+Crops,Zimbabwe,Production,"Mangoes, mangosteens, guavas",2016,tonnes,1466
+Crops,Zimbabwe,Production,"Mangoes, mangosteens, guavas",2017,tonnes,1447
+Crops,Zimbabwe,Production,"Mangoes, mangosteens, guavas",2018,tonnes,1470
+Crops,Zimbabwe,Production,"Mangoes, mangosteens, guavas",2019,tonnes,1493
+Crops,Zimbabwe,Production,Millet,2016,tonnes,27461
+Crops,Zimbabwe,Production,Millet,2017,tonnes,62157
+Crops,Zimbabwe,Production,Millet,2018,tonnes,38964
+Crops,Zimbabwe,Production,Millet,2019,tonnes,35000
+Crops,Zimbabwe,Production,Oats,2016,tonnes,568
+Crops,Zimbabwe,Production,Oats,2017,tonnes,562
+Crops,Zimbabwe,Production,Oats,2018,tonnes,555
+Crops,Zimbabwe,Production,Oats,2019,tonnes,548
+Crops,Zimbabwe,Production,"Onions, dry",2016,tonnes,3621
+Crops,Zimbabwe,Production,"Onions, dry",2017,tonnes,3669
+Crops,Zimbabwe,Production,"Onions, dry",2018,tonnes,3719
+Crops,Zimbabwe,Production,"Onions, dry",2019,tonnes,3770
+Crops,Zimbabwe,Production,Oranges,2016,tonnes,96582
+Crops,Zimbabwe,Production,Oranges,2017,tonnes,97057
+Crops,Zimbabwe,Production,Oranges,2018,tonnes,97532
+Crops,Zimbabwe,Production,Oranges,2019,tonnes,98007
+Crops,Zimbabwe,Production,"Peas, green",2016,tonnes,11
+Crops,Zimbabwe,Production,"Peas, green",2017,tonnes,1
+Crops,Zimbabwe,Production,"Peas, green",2018,tonnes,0
+Crops,Zimbabwe,Production,"Peas, green",2019,tonnes,1
+Crops,Zimbabwe,Production,Pineapples,2016,tonnes,139
+Crops,Zimbabwe,Production,Pineapples,2017,tonnes,140
+Crops,Zimbabwe,Production,Pineapples,2018,tonnes,142
+Crops,Zimbabwe,Production,Pineapples,2019,tonnes,144
+Crops,Zimbabwe,Production,Potatoes,2016,tonnes,14020
+Crops,Zimbabwe,Production,Potatoes,2017,tonnes,14411
+Crops,Zimbabwe,Production,Potatoes,2018,tonnes,13579
+Crops,Zimbabwe,Production,Potatoes,2019,tonnes,12880
+Crops,Zimbabwe,Production,"Rice, paddy",2016,tonnes,1475
+Crops,Zimbabwe,Production,"Rice, paddy",2017,tonnes,1433
+Crops,Zimbabwe,Production,"Rice, paddy",2018,tonnes,1500
+Crops,Zimbabwe,Production,"Rice, paddy",2019,tonnes,1560
+Crops,Zimbabwe,Production,Seed cotton,2016,tonnes,32888
+Crops,Zimbabwe,Production,Seed cotton,2017,tonnes,73260
+Crops,Zimbabwe,Production,Seed cotton,2018,tonnes,105888
+Crops,Zimbabwe,Production,Seed cotton,2019,tonnes,107338
+Crops,Zimbabwe,Production,Sorghum,2016,tonnes,36305
+Crops,Zimbabwe,Production,Sorghum,2017,tonnes,54765
+Crops,Zimbabwe,Production,Sorghum,2018,tonnes,75324
+Crops,Zimbabwe,Production,Sorghum,2019,tonnes,41000
+Crops,Zimbabwe,Production,Soybeans,2016,tonnes,47755
+Crops,Zimbabwe,Production,Soybeans,2017,tonnes,36478
+Crops,Zimbabwe,Production,Soybeans,2018,tonnes,69688
+Crops,Zimbabwe,Production,Soybeans,2019,tonnes,40000
+Crops,Zimbabwe,Production,Sugar cane,2016,tonnes,3483000
+Crops,Zimbabwe,Production,Sugar cane,2017,tonnes,3101000
+Crops,Zimbabwe,Production,Sugar cane,2018,tonnes,3582994
+Crops,Zimbabwe,Production,Sugar cane,2019,tonnes,3562000
+Crops,Zimbabwe,Production,Sunflower seed,2016,tonnes,3259
+Crops,Zimbabwe,Production,Sunflower seed,2017,tonnes,5222
+Crops,Zimbabwe,Production,Sunflower seed,2018,tonnes,5907
+Crops,Zimbabwe,Production,Sunflower seed,2019,tonnes,3792
+Crops,Zimbabwe,Production,Sweet potatoes,2016,tonnes,27207
+Crops,Zimbabwe,Production,Sweet potatoes,2017,tonnes,33005
+Crops,Zimbabwe,Production,Sweet potatoes,2018,tonnes,34142
+Crops,Zimbabwe,Production,Sweet potatoes,2019,tonnes,35400
+Crops,Zimbabwe,Production,Tea,2016,tonnes,1755
+Crops,Zimbabwe,Production,Tea,2017,tonnes,1040
+Crops,Zimbabwe,Production,Tea,2018,tonnes,767
+Crops,Zimbabwe,Production,Tea,2019,tonnes,761
+Crops,Zimbabwe,Production,Tomatoes,2016,tonnes,26089
+Crops,Zimbabwe,Production,Tomatoes,2017,tonnes,26738
+Crops,Zimbabwe,Production,Tomatoes,2018,tonnes,27386
+Crops,Zimbabwe,Production,Tomatoes,2019,tonnes,28034
+Crops,Zimbabwe,Production,"Vegetables, fresh nes",2016,tonnes,186082
+Crops,Zimbabwe,Production,"Vegetables, fresh nes",2017,tonnes,188761
+Crops,Zimbabwe,Production,"Vegetables, fresh nes",2018,tonnes,191439
+Crops,Zimbabwe,Production,"Vegetables, fresh nes",2019,tonnes,194117
+Crops,Zimbabwe,Production,"Vegetables, leguminous nes",2016,tonnes,811
+Crops,Zimbabwe,Production,"Vegetables, leguminous nes",2017,tonnes,827
+Crops,Zimbabwe,Production,"Vegetables, leguminous nes",2018,tonnes,842
+Crops,Zimbabwe,Production,"Vegetables, leguminous nes",2019,tonnes,857
+Crops,Zimbabwe,Production,Wheat,2016,tonnes,42008
+Crops,Zimbabwe,Production,Wheat,2017,tonnes,38715
+Crops,Zimbabwe,Production,Wheat,2018,tonnes,45000
+Crops,Zimbabwe,Production,Wheat,2019,tonnes,80000
