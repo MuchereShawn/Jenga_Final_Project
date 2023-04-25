@@ -1,2 +1,3 @@
 # Jenga_Final_Project
-This is the project i am working on
+Agricultural production summary comparison in Eastern Africa
+
